@@ -4,7 +4,7 @@ This repository contains various projects completed during the Fall 2023 semeste
 
 ## Overview
 
-The projects in this repository showcase the starting steps for a career in Data Science, and highlights usage of SQL, Pandas, Matplotlib and other to accomplish various data anaylsis. 
+The projects in this repository showcase the starting steps for a career in Data Science, and highlights usage of SQL, Pandas, Matplotlib and others to accomplish various data anaylsis. 
 
 ## Projects
 
