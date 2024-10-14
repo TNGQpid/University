@@ -1,0 +1,614 @@
+entity_id,entity_name,plant_id,plant_name,generator_id,county,net_summer_capacity,net_winter_capacity,technology,latitude,longitude
+13781,Northern States Power Co - Minnesota,1756,Saxon Falls,1,Iron,0.5,0.5,Conventional Hydroelectric,46.5392,-90.3742
+13781,Northern States Power Co - Minnesota,1756,Saxon Falls,2,Iron,0.5,0.6,Conventional Hydroelectric,46.5392,-90.3742
+20847,Wisconsin Electric Power Co,1775,Brule,1,Florence,1.3,1.3,Conventional Hydroelectric,45.9472,-88.2189
+20847,Wisconsin Electric Power Co,1775,Brule,2,Florence,2,2,Conventional Hydroelectric,45.9472,-88.2189
+20847,Wisconsin Electric Power Co,1775,Brule,3,Florence,2,2,Conventional Hydroelectric,45.9472,-88.2189
+4247,Consolidated Water Power Co,3971,Biron,1,Wood,1.3,1.3,Conventional Hydroelectric,44.4306,-89.7808
+4247,Consolidated Water Power Co,3971,Biron,2,Wood,1.3,1.3,Conventional Hydroelectric,44.4306,-89.7808
+4247,Consolidated Water Power Co,3971,Biron,3,Wood,0.4,0.4,Conventional Hydroelectric,44.4306,-89.7808
+4247,Consolidated Water Power Co,3971,Biron,4,Wood,0.4,0.4,Conventional Hydroelectric,44.4306,-89.7808
+4247,Consolidated Water Power Co,3971,Biron,5,Wood,0.4,0.4,Conventional Hydroelectric,44.4306,-89.7808
+4247,Consolidated Water Power Co,3971,Biron,6,Wood,0.4,0.4,Conventional Hydroelectric,44.4306,-89.7808
+4247,Consolidated Water Power Co,3971,Biron,7,Wood,0.4,0.4,Conventional Hydroelectric,44.4306,-89.7808
+4247,Consolidated Water Power Co,3971,Biron,9,Wood,0.8,0.8,Conventional Hydroelectric,44.4306,-89.7808
+4247,Consolidated Water Power Co,3972,Du Bay,1,Portage,1.2,1.2,Conventional Hydroelectric,44.6647,-89.6511
+4247,Consolidated Water Power Co,3972,Du Bay,2,Portage,2,2,Conventional Hydroelectric,44.6647,-89.6511
+4247,Consolidated Water Power Co,3972,Du Bay,3,Portage,2,2,Conventional Hydroelectric,44.6647,-89.6511
+4247,Consolidated Water Power Co,3972,Du Bay,4,Portage,2,2,Conventional Hydroelectric,44.6647,-89.6511
+4247,Consolidated Water Power Co,3973,Stevens Point,1,Portage,0.8,0.8,Conventional Hydroelectric,44.5153,-89.585
+4247,Consolidated Water Power Co,3973,Stevens Point,2,Portage,0.8,0.8,Conventional Hydroelectric,44.5153,-89.585
+4247,Consolidated Water Power Co,3973,Stevens Point,3,Portage,0.8,0.8,Conventional Hydroelectric,44.5153,-89.585
+4247,Consolidated Water Power Co,3973,Stevens Point,4,Portage,0.8,0.8,Conventional Hydroelectric,44.5153,-89.585
+4247,Consolidated Water Power Co,3973,Stevens Point,5,Portage,0.8,0.8,Conventional Hydroelectric,44.5153,-89.585
+4247,Consolidated Water Power Co,3973,Stevens Point,6,Portage,0.8,0.8,Conventional Hydroelectric,44.5153,-89.585
+4247,Consolidated Water Power Co,3974,Wisconsin Rapids,1,Wood,2.3,2.3,Conventional Hydroelectric,44.3939,-89.825
+4247,Consolidated Water Power Co,3974,Wisconsin Rapids,10,Wood,0.6,0.6,Conventional Hydroelectric,44.3939,-89.825
+4247,Consolidated Water Power Co,3974,Wisconsin Rapids,2,Wood,2.3,2.3,Conventional Hydroelectric,44.3939,-89.825
+4247,Consolidated Water Power Co,3974,Wisconsin Rapids,3,Wood,0.6,0.6,Conventional Hydroelectric,44.3939,-89.825
+4247,Consolidated Water Power Co,3974,Wisconsin Rapids,4,Wood,0.6,0.6,Conventional Hydroelectric,44.3939,-89.825
+4247,Consolidated Water Power Co,3974,Wisconsin Rapids,5,Wood,0.6,0.6,Conventional Hydroelectric,44.3939,-89.825
+4247,Consolidated Water Power Co,3974,Wisconsin Rapids,6,Wood,0.3,0.3,Conventional Hydroelectric,44.3939,-89.825
+4247,Consolidated Water Power Co,3974,Wisconsin Rapids,7,Wood,0.6,0.6,Conventional Hydroelectric,44.3939,-89.825
+4247,Consolidated Water Power Co,3974,Wisconsin Rapids,8,Wood,0.3,0.3,Conventional Hydroelectric,44.3939,-89.825
+4247,Consolidated Water Power Co,3974,Wisconsin Rapids,9,Wood,0.6,0.6,Conventional Hydroelectric,44.3939,-89.825
+4247,Consolidated Water Power Co,3975,Whiting,1,Portage,1.2,1.2,Conventional Hydroelectric,44.4889,-89.5756
+4247,Consolidated Water Power Co,3975,Whiting,10,Portage,0.3,0.3,Conventional Hydroelectric,44.4889,-89.5756
+4247,Consolidated Water Power Co,3975,Whiting,2,Portage,0.5,0.5,Conventional Hydroelectric,44.4889,-89.5756
+4247,Consolidated Water Power Co,3975,Whiting,3,Portage,0.5,0.5,Conventional Hydroelectric,44.4889,-89.5756
+4247,Consolidated Water Power Co,3975,Whiting,4,Portage,0.5,0.5,Conventional Hydroelectric,44.4889,-89.5756
+4247,Consolidated Water Power Co,3975,Whiting,5,Portage,0.5,0.5,Conventional Hydroelectric,44.4889,-89.5756
+4247,Consolidated Water Power Co,3975,Whiting,6,Portage,0.5,0.5,Conventional Hydroelectric,44.4889,-89.5756
+4247,Consolidated Water Power Co,3975,Whiting,7,Portage,0.5,0.5,Conventional Hydroelectric,44.4889,-89.5756
+4247,Consolidated Water Power Co,3975,Whiting,8,Portage,0.3,0.3,Conventional Hydroelectric,44.4889,-89.5756
+4247,Consolidated Water Power Co,3975,Whiting,9,Portage,0.3,0.3,Conventional Hydroelectric,44.4889,-89.5756
+4715,Dahlberg Light & Power Co,3976,Gordon,3,Douglas,0.7,0.7,Petroleum Liquids,46.23669,-91.78553
+4715,Dahlberg Light & Power Co,3976,Gordon,4,Douglas,0.7,0.7,Petroleum Liquids,46.23669,-91.78553
+4715,Dahlberg Light & Power Co,3976,Gordon,5,Douglas,0.7,0.7,Petroleum Liquids,46.23669,-91.78553
+4715,Dahlberg Light & Power Co,3976,Gordon,6,Douglas,0.7,0.7,Petroleum Liquids,46.23669,-91.78553
+13781,Northern States Power Co - Minnesota,3982,Bay Front,5,Ashland,18,18,Wood/Wood Waste Biomass,46.587222,-90.9017
+13781,Northern States Power Co - Minnesota,3982,Bay Front,6,Ashland,23,23,Natural Gas Steam Turbine,46.587222,-90.9017
+13781,Northern States Power Co - Minnesota,3983,Big Falls,1,Rusk,1.1,1,Conventional Hydroelectric,45.491667,-91.0469
+13781,Northern States Power Co - Minnesota,3983,Big Falls,2,Rusk,1.1,1,Conventional Hydroelectric,45.491667,-91.0469
+13781,Northern States Power Co - Minnesota,3983,Big Falls,3,Rusk,1.1,1,Conventional Hydroelectric,45.491667,-91.0469
+13781,Northern States Power Co - Minnesota,3986,Ladysmith Dam,1,Rusk,0.3,0.3,Conventional Hydroelectric,45.464444,-91.08361
+13781,Northern States Power Co - Minnesota,3986,Ladysmith Dam,2,Rusk,0.3,0.2,Conventional Hydroelectric,45.464444,-91.08361
+13781,Northern States Power Co - Minnesota,3986,Ladysmith Dam,3,Rusk,0.4,0.3,Conventional Hydroelectric,45.464444,-91.08361
+13781,Northern States Power Co - Minnesota,3988,Thornapple,1,Rusk,0.4,0.4,Conventional Hydroelectric,45.411139,-91.21828
+13781,Northern States Power Co - Minnesota,3988,Thornapple,2,Rusk,0.4,0.4,Conventional Hydroelectric,45.411139,-91.21828
+13781,Northern States Power Co - Minnesota,3989,White River (WI),1,Ashland,0.2,0.2,Conventional Hydroelectric,46.498333,-90.90389
+13781,Northern States Power Co - Minnesota,3989,White River (WI),2,Ashland,0.2,0.2,Conventional Hydroelectric,46.498333,-90.90389
+11479,Madison Gas & Electric Co,3991,Fitchburg,1,Dane,15.3,15.3,Natural Gas Fired Combustion Turbine,43.0147,-89.4603
+11479,Madison Gas & Electric Co,3991,Fitchburg,2,Dane,15.8,15.8,Natural Gas Fired Combustion Turbine,43.0147,-89.4603
+11479,Madison Gas & Electric Co,3992,Blount Street,6,Dane,47.2,47.2,Natural Gas Steam Turbine,43.0789,-89.3744
+11479,Madison Gas & Electric Co,3992,Blount Street,7,Dane,47.9,47.9,Natural Gas Steam Turbine,43.0789,-89.3744
+11479,Madison Gas & Electric Co,3993,Sycamore (WI),1,Dane,12.2,12.2,Natural Gas Fired Combustion Turbine,43.1133,-89.3128
+11479,Madison Gas & Electric Co,3993,Sycamore (WI),2,Dane,17.4,17.4,Natural Gas Fired Combustion Turbine,43.1133,-89.3128
+58149,Renewable World Energies LLC,3995,Arpin Dam,1,Sawyer,0.6,0.6,Conventional Hydroelectric,45.7517,-91.2028
+58149,Renewable World Energies LLC,3995,Arpin Dam,2,Sawyer,0.6,0.6,Conventional Hydroelectric,45.7517,-91.2028
+58149,Renewable World Energies LLC,3995,Arpin Dam,3,Sawyer,0.2,0.2,Conventional Hydroelectric,45.7517,-91.2028
+13781,Northern States Power Co - Minnesota,3998,Cedar Falls (WI),1,Dunn,1.3,1.2,Conventional Hydroelectric,44.9367,-91.8883
+13781,Northern States Power Co - Minnesota,3998,Cedar Falls (WI),2,Dunn,1.1,1.1,Conventional Hydroelectric,44.9367,-91.8883
+13781,Northern States Power Co - Minnesota,3998,Cedar Falls (WI),3,Dunn,1.2,1.1,Conventional Hydroelectric,44.9367,-91.8883
+13781,Northern States Power Co - Minnesota,4000,Chippewa Falls,1,Chippewa,1.9,1.9,Conventional Hydroelectric,44.9308,-91.3889
+13781,Northern States Power Co - Minnesota,4000,Chippewa Falls,2,Chippewa,2.1,2.1,Conventional Hydroelectric,44.9308,-91.3889
+13781,Northern States Power Co - Minnesota,4000,Chippewa Falls,3,Chippewa,2,2,Conventional Hydroelectric,44.9308,-91.3889
+13781,Northern States Power Co - Minnesota,4000,Chippewa Falls,4,Chippewa,2,2,Conventional Hydroelectric,44.9308,-91.3889
+13781,Northern States Power Co - Minnesota,4000,Chippewa Falls,5,Chippewa,2,2,Conventional Hydroelectric,44.9308,-91.3889
+13781,Northern States Power Co - Minnesota,4000,Chippewa Falls,6,Chippewa,2.1,2.1,Conventional Hydroelectric,44.9308,-91.3889
+13781,Northern States Power Co - Minnesota,4002,Dells,1,Eau Claire,1.9,1.9,Conventional Hydroelectric,44.828056,-91.51111
+13781,Northern States Power Co - Minnesota,4002,Dells,2,Eau Claire,1.5,1.5,Conventional Hydroelectric,44.828056,-91.51111
+13781,Northern States Power Co - Minnesota,4002,Dells,3,Eau Claire,1.5,1.5,Conventional Hydroelectric,44.828056,-91.51111
+13781,Northern States Power Co - Minnesota,4002,Dells,4,Eau Claire,1.5,1.5,Conventional Hydroelectric,44.828056,-91.51111
+13781,Northern States Power Co - Minnesota,4002,Dells,5,Eau Claire,0.9,0.9,Conventional Hydroelectric,44.828056,-91.51111
+13781,Northern States Power Co - Minnesota,4005,French Island,1,La Crosse,9,9,Wood/Wood Waste Biomass,43.8292,-91.2597
+13781,Northern States Power Co - Minnesota,4005,French Island,2,La Crosse,7,7,Wood/Wood Waste Biomass,43.8292,-91.2597
+13781,Northern States Power Co - Minnesota,4005,French Island,3,La Crosse,61,81,Petroleum Liquids,43.8292,-91.2597
+13781,Northern States Power Co - Minnesota,4005,French Island,4,La Crosse,58,78,Petroleum Liquids,43.8292,-91.2597
+13781,Northern States Power Co - Minnesota,4007,Holcombe,1,Chippewa,7.3,7.3,Conventional Hydroelectric,45.223611,-91.12722
+13781,Northern States Power Co - Minnesota,4007,Holcombe,2,Chippewa,7.3,7.3,Conventional Hydroelectric,45.223611,-91.12722
+13781,Northern States Power Co - Minnesota,4007,Holcombe,3,Chippewa,7.3,7.3,Conventional Hydroelectric,45.223611,-91.12722
+13781,Northern States Power Co - Minnesota,4008,Jim Falls,1,Chippewa,12.3,12.3,Conventional Hydroelectric,45.051,-91.274
+13781,Northern States Power Co - Minnesota,4008,Jim Falls,2,Chippewa,12.5,12.5,Conventional Hydroelectric,45.051,-91.274
+13781,Northern States Power Co - Minnesota,4008,Jim Falls,4,Chippewa,0.2,0.2,Conventional Hydroelectric,45.051,-91.274
+13781,Northern States Power Co - Minnesota,4009,Menomonie,1,Dunn,1.1,1.2,Conventional Hydroelectric,44.884167,-91.92944
+13781,Northern States Power Co - Minnesota,4009,Menomonie,2,Dunn,1.1,1.2,Conventional Hydroelectric,44.884167,-91.92944
+13781,Northern States Power Co - Minnesota,4011,St Croix Falls,1,Polk,1.8,1.4,Conventional Hydroelectric,45.41167,-92.6469
+13781,Northern States Power Co - Minnesota,4011,St Croix Falls,2,Polk,1.8,1.4,Conventional Hydroelectric,45.41167,-92.6469
+13781,Northern States Power Co - Minnesota,4011,St Croix Falls,3,Polk,1.9,1.5,Conventional Hydroelectric,45.41167,-92.6469
+13781,Northern States Power Co - Minnesota,4011,St Croix Falls,4,Polk,1.9,1.5,Conventional Hydroelectric,45.41167,-92.6469
+13781,Northern States Power Co - Minnesota,4011,St Croix Falls,5,Polk,2,1.6,Conventional Hydroelectric,45.41167,-92.6469
+13781,Northern States Power Co - Minnesota,4011,St Croix Falls,6,Polk,1.9,1.5,Conventional Hydroelectric,45.41167,-92.6469
+13781,Northern States Power Co - Minnesota,4011,St Croix Falls,7,Polk,2,1.6,Conventional Hydroelectric,45.41167,-92.6469
+13781,Northern States Power Co - Minnesota,4011,St Croix Falls,8,Polk,1.9,1.5,Conventional Hydroelectric,45.41167,-92.6469
+13781,Northern States Power Co - Minnesota,4012,Trego,1,Washburn,0.4,0.4,Conventional Hydroelectric,45.94794,-91.88837
+13781,Northern States Power Co - Minnesota,4012,Trego,2,Washburn,0.3,0.3,Conventional Hydroelectric,45.94794,-91.88837
+13781,Northern States Power Co - Minnesota,4014,Wheaton,1,Chippewa,44,56,Natural Gas Fired Combustion Turbine,44.885416,-91.51583
+13781,Northern States Power Co - Minnesota,4014,Wheaton,2,Chippewa,51,66,Natural Gas Fired Combustion Turbine,44.885416,-91.51583
+13781,Northern States Power Co - Minnesota,4014,Wheaton,3,Chippewa,44,56,Natural Gas Fired Combustion Turbine,44.885416,-91.51583
+13781,Northern States Power Co - Minnesota,4014,Wheaton,4,Chippewa,47,61,Natural Gas Fired Combustion Turbine,44.885416,-91.51583
+13781,Northern States Power Co - Minnesota,4014,Wheaton,6,Chippewa,48,70,Petroleum Liquids,44.885416,-91.51583
+13781,Northern States Power Co - Minnesota,4015,Wissota,1,Chippewa,3,3,Conventional Hydroelectric,44.9378,-91.3406
+13781,Northern States Power Co - Minnesota,4015,Wissota,2,Chippewa,3.1,3.1,Conventional Hydroelectric,44.9378,-91.3406
+13781,Northern States Power Co - Minnesota,4015,Wissota,3,Chippewa,3,3,Conventional Hydroelectric,44.9378,-91.3406
+13781,Northern States Power Co - Minnesota,4015,Wissota,4,Chippewa,3,3,Conventional Hydroelectric,44.9378,-91.3406
+13781,Northern States Power Co - Minnesota,4015,Wissota,5,Chippewa,2.9,2.9,Conventional Hydroelectric,44.9378,-91.3406
+13781,Northern States Power Co - Minnesota,4015,Wissota,6,Chippewa,3,3,Conventional Hydroelectric,44.9378,-91.3406
+58149,Renewable World Energies LLC,4018,Clam River Dam,1,Burnett,0.4,0.4,Conventional Hydroelectric,45.9467,-92.5383
+58149,Renewable World Energies LLC,4018,Clam River Dam,2,Burnett,0.4,0.4,Conventional Hydroelectric,45.9467,-92.5383
+58149,Renewable World Energies LLC,4018,Clam River Dam,3,Burnett,0.4,0.4,Conventional Hydroelectric,45.9467,-92.5383
+58149,Renewable World Energies LLC,4019,Danbury Dam,1,Burnett,0.1,0.1,Conventional Hydroelectric,46,-92.3725
+58149,Renewable World Energies LLC,4019,Danbury Dam,2,Burnett,0.3,0.3,Conventional Hydroelectric,46,-92.3725
+58149,Renewable World Energies LLC,4019,Danbury Dam,HY3,Burnett,0.6,0.6,Conventional Hydroelectric,46,-92.3725
+13815,Northwestern Wisconsin Elec Co,4020,Frederic Diesel,10,Polk,2.5,2.6,Petroleum Liquids,45.654835,-92.46506
+13815,Northwestern Wisconsin Elec Co,4020,Frederic Diesel,2,Polk,0.7,0.7,Petroleum Liquids,45.654835,-92.46506
+13815,Northwestern Wisconsin Elec Co,4020,Frederic Diesel,3,Polk,0.7,0.7,Petroleum Liquids,45.654835,-92.46506
+13815,Northwestern Wisconsin Elec Co,4020,Frederic Diesel,4,Polk,0.6,0.6,Petroleum Liquids,45.654835,-92.46506
+13815,Northwestern Wisconsin Elec Co,4020,Frederic Diesel,5,Polk,0.5,0.5,Petroleum Liquids,45.654835,-92.46506
+13815,Northwestern Wisconsin Elec Co,4020,Frederic Diesel,6,Polk,1.7,1.7,Petroleum Liquids,45.654835,-92.46506
+13815,Northwestern Wisconsin Elec Co,4020,Frederic Diesel,7,Polk,1.8,1.8,Petroleum Liquids,45.654835,-92.46506
+13815,Northwestern Wisconsin Elec Co,4020,Frederic Diesel,8,Polk,2.5,2.6,Petroleum Liquids,45.654835,-92.46506
+13815,Northwestern Wisconsin Elec Co,4020,Frederic Diesel,9,Polk,2.5,2.6,Petroleum Liquids,45.654835,-92.46506
+13815,Northwestern Wisconsin Elec Co,4021,Grantsburg Diesel,1A,Burnett,0.8,0.8,Petroleum Liquids,45.779189,-92.67805
+13815,Northwestern Wisconsin Elec Co,4021,Grantsburg Diesel,2,Burnett,0.8,0.8,Petroleum Liquids,45.779189,-92.67805
+13815,Northwestern Wisconsin Elec Co,4021,Grantsburg Diesel,3,Burnett,0.9,0.9,Petroleum Liquids,45.779189,-92.67805
+13815,Northwestern Wisconsin Elec Co,4021,Grantsburg Diesel,4,Burnett,2,2,Petroleum Liquids,45.779189,-92.67805
+13815,Northwestern Wisconsin Elec Co,4021,Grantsburg Diesel,8,Burnett,1.8,1.8,Petroleum Liquids,45.779189,-92.67805
+20847,Wisconsin Electric Power Co,4040,Port Washington Generating Station,1CT1,Ozaukee,178.2,207,Natural Gas Fired Combined Cycle,43.3842,-87.8689
+20847,Wisconsin Electric Power Co,4040,Port Washington Generating Station,1CT2,Ozaukee,178.8,207,Natural Gas Fired Combined Cycle,43.3842,-87.8689
+20847,Wisconsin Electric Power Co,4040,Port Washington Generating Station,2CT1,Ozaukee,174.8,204.2,Natural Gas Fired Combined Cycle,43.3842,-87.8689
+20847,Wisconsin Electric Power Co,4040,Port Washington Generating Station,2CT2,Ozaukee,174.9,204.5,Natural Gas Fired Combined Cycle,43.3842,-87.8689
+20847,Wisconsin Electric Power Co,4040,Port Washington Generating Station,ST1,Ozaukee,265.1,265.2,Natural Gas Fired Combined Cycle,43.3842,-87.8689
+20847,Wisconsin Electric Power Co,4040,Port Washington Generating Station,ST2,Ozaukee,264.7,264.3,Natural Gas Fired Combined Cycle,43.3842,-87.8689
+20847,Wisconsin Electric Power Co,4041,South Oak Creek,5,Milwaukee,242.2,242.2,Conventional Steam Coal,42.8457,-87.8294
+20847,Wisconsin Electric Power Co,4041,South Oak Creek,6,Milwaukee,253.8,253.8,Conventional Steam Coal,42.8457,-87.8294
+20847,Wisconsin Electric Power Co,4041,South Oak Creek,7,Milwaukee,306.5,309.3,Conventional Steam Coal,42.8457,-87.8294
+20847,Wisconsin Electric Power Co,4041,South Oak Creek,8,Milwaukee,309.5,312.7,Conventional Steam Coal,42.8457,-87.8294
+20847,Wisconsin Electric Power Co,4042,Valley (WI),1,Milwaukee,124.7,88.3,Natural Gas Steam Turbine,43.0303,-87.9233
+20847,Wisconsin Electric Power Co,4042,Valley (WI),2,Milwaukee,139.2,140.1,Natural Gas Steam Turbine,43.0303,-87.9233
+20847,Wisconsin Electric Power Co,4042,Valley (WI),3,Milwaukee,2.7,2.7,Petroleum Liquids,43.0303,-87.9233
+20847,Wisconsin Electric Power Co,4043,Appleton,4,Outagamie,1.2,1.2,Conventional Hydroelectric,44.25393,-88.40956
+20847,Wisconsin Electric Power Co,4043,Appleton,5,Outagamie,0.5,0.5,Conventional Hydroelectric,44.25393,-88.40956
+20847,Wisconsin Electric Power Co,4043,Appleton,6,Outagamie,0.5,0.5,Conventional Hydroelectric,44.25393,-88.40956
+57280,"Eagle Creek Renewable Energy, LLC",4044,Oconto Falls Upper,1,Oconto,0.4,0.4,Conventional Hydroelectric,44.8764,-88.1475
+57280,"Eagle Creek Renewable Energy, LLC",4044,Oconto Falls Upper,2,Oconto,0.4,0.4,Conventional Hydroelectric,44.8764,-88.1475
+57280,"Eagle Creek Renewable Energy, LLC",4044,Oconto Falls Upper,3,Oconto,0.3,0.3,Conventional Hydroelectric,44.8764,-88.1475
+20847,Wisconsin Electric Power Co,4045,Pine,1,Florence,1.6,1.6,Conventional Hydroelectric,45.8275,-88.2483
+20847,Wisconsin Electric Power Co,4045,Pine,2,Florence,1.6,1.6,Conventional Hydroelectric,45.8275,-88.2483
+55906,NextEra Energy Point Beach LLC,4046,Point Beach Nuclear Plant,1,Manitowoc,595.4,599.6,Nuclear,44.2806,-87.5369
+55906,NextEra Energy Point Beach LLC,4046,Point Beach Nuclear Plant,2,Manitowoc,600.6,606.2,Nuclear,44.2806,-87.5369
+55906,NextEra Energy Point Beach LLC,4046,Point Beach Nuclear Plant,5,Manitowoc,15,18,Petroleum Liquids,44.2806,-87.5369
+20856,Wisconsin Power & Light Co,4050,Edgewater,5,Sheboygan,409.1,409.3,Conventional Steam Coal,43.715142,-87.70586
+20856,Wisconsin Power & Light Co,4053,Kilbourn,2,Columbia,9.5,9.5,Conventional Hydroelectric,43.625845,-89.78076
+20856,Wisconsin Power & Light Co,4053,Kilbourn,HC1,Columbia, , ,Conventional Hydroelectric,43.625845,-89.78076
+20856,Wisconsin Power & Light Co,4053,Kilbourn,HC5,Columbia, , ,Conventional Hydroelectric,43.625845,-89.78076
+20856,Wisconsin Power & Light Co,4053,Kilbourn,HC6,Columbia, , ,Conventional Hydroelectric,43.625845,-89.78076
+20856,Wisconsin Power & Light Co,4056,Prairie Du Sac,1,Sauk,29,29,Conventional Hydroelectric,43.309932,-89.72778
+20856,Wisconsin Power & Light Co,4056,Prairie Du Sac,2,Sauk, , ,Conventional Hydroelectric,43.309932,-89.72778
+20856,Wisconsin Power & Light Co,4056,Prairie Du Sac,3,Sauk, , ,Conventional Hydroelectric,43.309932,-89.72778
+20856,Wisconsin Power & Light Co,4056,Prairie Du Sac,4,Sauk, , ,Conventional Hydroelectric,43.309932,-89.72778
+20856,Wisconsin Power & Light Co,4056,Prairie Du Sac,5,Sauk, , ,Conventional Hydroelectric,43.309932,-89.72778
+20856,Wisconsin Power & Light Co,4056,Prairie Du Sac,6,Sauk, , ,Conventional Hydroelectric,43.309932,-89.72778
+20856,Wisconsin Power & Light Co,4056,Prairie Du Sac,7,Sauk, , ,Conventional Hydroelectric,43.309932,-89.72778
+20856,Wisconsin Power & Light Co,4056,Prairie Du Sac,8,Sauk, , ,Conventional Hydroelectric,43.309932,-89.72778
+20860,Wisconsin Public Service Corp,4060,Alexander,1,Lincoln,1.4,1.4,Conventional Hydroelectric,45.1875,-89.7553
+20860,Wisconsin Public Service Corp,4060,Alexander,2,Lincoln,1.4,1.4,Conventional Hydroelectric,45.1875,-89.7553
+20860,Wisconsin Public Service Corp,4060,Alexander,3,Lincoln,1.4,1.4,Conventional Hydroelectric,45.1875,-89.7553
+20860,Wisconsin Public Service Corp,4061,Caldron Falls,1,Marinette,3.2,3.2,Conventional Hydroelectric,45.3569,-88.2306
+20860,Wisconsin Public Service Corp,4061,Caldron Falls,2,Marinette,3.2,3.2,Conventional Hydroelectric,45.3569,-88.2306
+20860,Wisconsin Public Service Corp,4063,Grandfather Falls,1,Lincoln,11,11,Conventional Hydroelectric,45.3019,-89.7917
+20860,Wisconsin Public Service Corp,4063,Grandfather Falls,2,Lincoln,6.2,6.2,Conventional Hydroelectric,45.3019,-89.7917
+20860,Wisconsin Public Service Corp,4064,Hat Rapids,1,Oneida,0.8,0.8,Conventional Hydroelectric,45.5711,-89.4806
+20860,Wisconsin Public Service Corp,4064,Hat Rapids,2A,Oneida,0.5,0.5,Conventional Hydroelectric,45.5711,-89.4806
+20860,Wisconsin Public Service Corp,4064,Hat Rapids,3A,Oneida,0.4,0.4,Conventional Hydroelectric,45.5711,-89.4806
+20860,Wisconsin Public Service Corp,4065,High Falls (WI),1,Marinette,1.4,1.4,Conventional Hydroelectric,45.2794,-88.1997
+20860,Wisconsin Public Service Corp,4065,High Falls (WI),2,Marinette,1.4,1.4,Conventional Hydroelectric,45.2794,-88.1997
+20860,Wisconsin Public Service Corp,4065,High Falls (WI),3,Marinette,1.4,1.4,Conventional Hydroelectric,45.2794,-88.1997
+20860,Wisconsin Public Service Corp,4065,High Falls (WI),4,Marinette,1.4,1.4,Conventional Hydroelectric,45.2794,-88.1997
+20860,Wisconsin Public Service Corp,4065,High Falls (WI),5,Marinette,1.4,1.4,Conventional Hydroelectric,45.2794,-88.1997
+20860,Wisconsin Public Service Corp,4067,Johnson Falls,1,Marinette,1.7,1.7,Conventional Hydroelectric,45.2875,-88.1603
+20860,Wisconsin Public Service Corp,4067,Johnson Falls,2,Marinette,1.7,1.7,Conventional Hydroelectric,45.2875,-88.1603
+20860,Wisconsin Public Service Corp,4068,Merrill,1,Lincoln,0.4,0.4,Conventional Hydroelectric,45.1786,-89.685
+20860,Wisconsin Public Service Corp,4068,Merrill,2,Lincoln,0.4,0.4,Conventional Hydroelectric,45.1786,-89.685
+20860,Wisconsin Public Service Corp,4068,Merrill,3,Lincoln,1.5,1.5,Conventional Hydroelectric,45.1786,-89.685
+20860,Wisconsin Public Service Corp,4071,Potato Rapids,1,Marinette,0.5,0.5,Conventional Hydroelectric,45.1136,-87.7586
+20860,Wisconsin Public Service Corp,4071,Potato Rapids,2,Marinette,0.4,0.4,Conventional Hydroelectric,45.1136,-87.7586
+20860,Wisconsin Public Service Corp,4071,Potato Rapids,3,Marinette,0.4,0.4,Conventional Hydroelectric,45.1136,-87.7586
+20860,Wisconsin Public Service Corp,4072,Pulliam,31,Brown,79.8,106.3,Natural Gas Fired Combustion Turbine,44.54,-88.0086
+20860,Wisconsin Public Service Corp,4074,Sandstone Rapids,1,Marinette,1.9,1.9,Conventional Hydroelectric,45.2333,-88.0678
+20860,Wisconsin Public Service Corp,4074,Sandstone Rapids,2,Marinette,1.9,1.9,Conventional Hydroelectric,45.2333,-88.0678
+20860,Wisconsin Public Service Corp,4075,Tomahawk,1,Lincoln,1.3,1.3,Conventional Hydroelectric,45.4411,-89.7306
+20860,Wisconsin Public Service Corp,4075,Tomahawk,2,Lincoln,1.3,1.3,Conventional Hydroelectric,45.4411,-89.7306
+20860,Wisconsin Public Service Corp,4076,West Marinette,31,Marinette,38.1,49.8,Natural Gas Fired Combustion Turbine,45.0869,-87.6881
+20860,Wisconsin Public Service Corp,4076,West Marinette,32,Marinette,36.7,47.9,Natural Gas Fired Combustion Turbine,45.0869,-87.6881
+20860,Wisconsin Public Service Corp,4076,West Marinette,33,Marinette,78.2,104.1,Natural Gas Fired Combustion Turbine,45.0869,-87.6881
+20860,Wisconsin Public Service Corp,4077,Wausau,1,Marathon,1.8,1.8,Conventional Hydroelectric,44.9575,-89.6367
+20860,Wisconsin Public Service Corp,4077,Wausau,2,Marathon,1.8,1.8,Conventional Hydroelectric,44.9575,-89.6367
+20860,Wisconsin Public Service Corp,4077,Wausau,3,Marathon,1.8,1.8,Conventional Hydroelectric,44.9575,-89.6367
+20860,Wisconsin Public Service Corp,4078,Weston,3,Marathon,334.7,339.8,Conventional Steam Coal,44.8606,-89.6553
+20860,Wisconsin Public Service Corp,4078,Weston,4,Marathon,553.2,558.5,Conventional Steam Coal,44.8606,-89.6553
+20863,Wisconsin River Power Company,4079,Castle Rock,1,Adams,2.8,2.8,Conventional Hydroelectric,43.8656,-89.9514
+20863,Wisconsin River Power Company,4079,Castle Rock,2,Adams,2.8,2.8,Conventional Hydroelectric,43.8656,-89.9514
+20863,Wisconsin River Power Company,4079,Castle Rock,3,Adams,2.8,2.8,Conventional Hydroelectric,43.8656,-89.9514
+20863,Wisconsin River Power Company,4079,Castle Rock,4,Adams,2.8,2.8,Conventional Hydroelectric,43.8656,-89.9514
+20863,Wisconsin River Power Company,4079,Castle Rock,5,Adams,2.8,2.8,Conventional Hydroelectric,43.8656,-89.9514
+20863,Wisconsin River Power Company,4080,Petenwell,1,Juneau,5,5,Conventional Hydroelectric,44.0572,-90.0217
+20863,Wisconsin River Power Company,4080,Petenwell,2,Juneau,5,5,Conventional Hydroelectric,44.0572,-90.0217
+20863,Wisconsin River Power Company,4080,Petenwell,3,Juneau,5,5,Conventional Hydroelectric,44.0572,-90.0217
+20863,Wisconsin River Power Company,4080,Petenwell,4,Juneau,5,5,Conventional Hydroelectric,44.0572,-90.0217
+765,City of Arcadia - (WI),4100,Arcadia Electric,1,Trempealeau,1.3,1.3,Petroleum Liquids,44.2524,-91.5034
+765,City of Arcadia - (WI),4100,Arcadia Electric,10,Trempealeau,2,2,Petroleum Liquids,44.2524,-91.5034
+765,City of Arcadia - (WI),4100,Arcadia Electric,2,Trempealeau,1,1,Petroleum Liquids,44.2524,-91.5034
+765,City of Arcadia - (WI),4100,Arcadia Electric,3,Trempealeau,0.4,0.4,Petroleum Liquids,44.2524,-91.5034
+765,City of Arcadia - (WI),4100,Arcadia Electric,4,Trempealeau,0.2,0.2,Petroleum Liquids,44.2524,-91.5034
+765,City of Arcadia - (WI),4100,Arcadia Electric,5,Trempealeau,3,3,Natural Gas Internal Combustion Engine,44.2524,-91.5034
+765,City of Arcadia - (WI),4100,Arcadia Electric,6,Trempealeau,3,3,Natural Gas Internal Combustion Engine,44.2524,-91.5034
+765,City of Arcadia - (WI),4100,Arcadia Electric,7,Trempealeau,2,2,Petroleum Liquids,44.2524,-91.5034
+765,City of Arcadia - (WI),4100,Arcadia Electric,8,Trempealeau,2,2,Petroleum Liquids,44.2524,-91.5034
+765,City of Arcadia - (WI),4100,Arcadia Electric,9,Trempealeau,2,2,Petroleum Liquids,44.2524,-91.5034
+1278,City of Barron - (WI),4102,Barron,1A,Barron,1.1,1.1,Petroleum Liquids,45.40193,-91.84038
+1278,City of Barron - (WI),4102,Barron,2A,Barron,1.1,1.1,Petroleum Liquids,45.40193,-91.84038
+1278,City of Barron - (WI),4102,Barron,3A,Barron,1.1,1.1,Petroleum Liquids,45.40193,-91.84038
+1278,City of Barron - (WI),4102,Barron,4,Barron,1.1,1.1,Petroleum Liquids,45.40193,-91.84038
+1278,City of Barron - (WI),4102,Barron,7,Barron,0.6,0.6,Petroleum Liquids,45.40193,-91.84038
+1278,City of Barron - (WI),4102,Barron,8,Barron,1.3,1.3,Petroleum Liquids,45.40193,-91.84038
+1278,City of Barron - (WI),4102,Barron,9,Barron,2,2,Petroleum Liquids,45.40193,-91.84038
+1278,City of Barron - (WI),4102,Barron,H2,Barron,0.1,0.1,Conventional Hydroelectric,45.40193,-91.84038
+3156,Village of Cashton - (WI),4107,Cashton,3,Monroe,0.4,0.4,Petroleum Liquids,43.742874,-90.78033
+3156,Village of Cashton - (WI),4107,Cashton,5,Monroe,1.1,1.1,Natural Gas Internal Combustion Engine,43.742874,-90.78033
+3156,Village of Cashton - (WI),4107,Cashton,6,Monroe,2,2,Petroleum Liquids,43.742874,-90.78033
+4627,City of Cumberland - (WI),4112,Cumberland (WI),1,Barron,0.7,0.7,Petroleum Liquids,45.5336,-92.0224
+4627,City of Cumberland - (WI),4112,Cumberland (WI),2,Barron,0.3,0.3,Petroleum Liquids,45.5336,-92.0224
+4627,City of Cumberland - (WI),4112,Cumberland (WI),3,Barron,0.3,0.3,Petroleum Liquids,45.5336,-92.0224
+4627,City of Cumberland - (WI),4112,Cumberland (WI),4,Barron,1.2,1.2,Petroleum Liquids,45.5336,-92.0224
+4627,City of Cumberland - (WI),4112,Cumberland (WI),5,Barron,2.1,2.1,Natural Gas Internal Combustion Engine,45.5336,-92.0224
+4627,City of Cumberland - (WI),4112,Cumberland (WI),6,Barron,6.7,6.7,Petroleum Liquids,45.5336,-92.0224
+4627,City of Cumberland - (WI),4112,Cumberland (WI),7,Barron,6.2,6.2,Natural Gas Internal Combustion Engine,45.5336,-92.0224
+4627,City of Cumberland - (WI),4112,Cumberland (WI),8,Barron,3.5,3.5,Natural Gas Internal Combustion Engine,45.5336,-92.0224
+5834,City of Elroy - (WI),4113,Elroy,1A,Juneau,2.2,2.3,Petroleum Liquids,43.7395,-90.2675
+5834,City of Elroy - (WI),4113,Elroy,2A,Juneau,2.2,2.3,Petroleum Liquids,43.7395,-90.2675
+5834,City of Elroy - (WI),4113,Elroy,5,Juneau,2.2,2.2,Petroleum Liquids,43.7395,-90.2675
+6274,City of Fennimore - (WI),4114,Fennimore,4,Grant,1.1,1.1,Petroleum Liquids,42.9828,-90.6558
+6274,City of Fennimore - (WI),4114,Fennimore,5,Grant,0.9,0.9,Petroleum Liquids,42.9828,-90.6558
+6274,City of Fennimore - (WI),4114,Fennimore,6,Grant,1.8,1.8,Petroleum Liquids,42.9828,-90.6558
+6274,City of Fennimore - (WI),4114,Fennimore,7,Grant,1.8,1.8,Petroleum Liquids,42.9828,-90.6558
+6274,City of Fennimore - (WI),4114,Fennimore,8,Grant,1.8,1.8,Petroleum Liquids,42.9828,-90.6558
+10056,City of Kaukauna,4118,Kaukauna Gas Turbine,GT1,Outagamie,15.8,18.3,Natural Gas Fired Combustion Turbine,44.276199,-88.26545
+10056,City of Kaukauna,4119,Little Chute,1,Outagamie,1.1,1.1,Conventional Hydroelectric,44.279897,-88.25558
+10056,City of Kaukauna,4119,Little Chute,2,Outagamie,1.1,1.1,Conventional Hydroelectric,44.279897,-88.25558
+10056,City of Kaukauna,4119,Little Chute,3,Outagamie,1.1,1.1,Conventional Hydroelectric,44.279897,-88.25558
+10056,City of Kaukauna,4120,New Badger,3,Outagamie,4,4,Conventional Hydroelectric,44.2772,-88.2678
+10056,City of Kaukauna,4120,New Badger,4,Outagamie,4,4,Conventional Hydroelectric,44.2772,-88.2678
+10056,City of Kaukauna,4122,Rapide Croche,1,Outagamie,0.6,0.6,Conventional Hydroelectric,44.3164,-88.3147
+10056,City of Kaukauna,4122,Rapide Croche,2,Outagamie,0.6,0.6,Conventional Hydroelectric,44.3164,-88.3147
+10056,City of Kaukauna,4122,Rapide Croche,3,Outagamie,0.6,0.6,Conventional Hydroelectric,44.3164,-88.3147
+10056,City of Kaukauna,4122,Rapide Croche,4,Outagamie,0.6,0.6,Conventional Hydroelectric,44.3164,-88.3147
+10525,La Farge Municipal Electric Co,4124,La Farge,2A,Vernon,1.5,1.5,Petroleum Liquids,43.5722,-90.6391
+11571,Manitowoc Public Utilities,4125,Manitowoc,5,Manitowoc,22,22,Wood/Wood Waste Biomass,44.082,-87.6558
+11571,Manitowoc Public Utilities,4125,Manitowoc,6,Manitowoc,22,22,Wood/Wood Waste Biomass,44.082,-87.6558
+11571,Manitowoc Public Utilities,4125,Manitowoc,9,Manitowoc,58.4,58.4,Petroleum Coke,44.082,-87.6558
+13466,City of New Lisbon,4130,New Lisbon,2,Juneau,1.2,1.2,Petroleum Liquids,43.8797,-90.1645
+13466,City of New Lisbon,4130,New Lisbon,5,Juneau,2.4,2.4,Petroleum Liquids,43.8797,-90.1645
+13466,City of New Lisbon,4130,New Lisbon,6,Juneau,2,2.1,Petroleum Liquids,43.8797,-90.1645
+13466,City of New Lisbon,4130,New Lisbon,7,Juneau,2,2.1,Petroleum Liquids,43.8797,-90.1645
+19867,Village of Viola - (WI),4139,Viola,3,Richland,1.8,1.8,Petroleum Liquids,43.507,-90.669
+4716,Dairyland Power Coop,4142,Flambeau Hydroelectric Station,1,Rusk,8.1,8.1,Conventional Hydroelectric,45.491826,-91.04721
+4716,Dairyland Power Coop,4142,Flambeau Hydroelectric Station,2,Rusk,8,8,Conventional Hydroelectric,45.491826,-91.04721
+4716,Dairyland Power Coop,4142,Flambeau Hydroelectric Station,3,Rusk,8,8,Conventional Hydroelectric,45.491826,-91.04721
+13964,Oconto Electric Cooperative,4147,Stiles,1,Oconto,0.3,0.3,Conventional Hydroelectric,44.8747,-88.1586
+13964,Oconto Electric Cooperative,4147,Stiles,2,Oconto,0.3,0.3,Conventional Hydroelectric,44.8747,-88.1586
+20153,"Washington Island El Coop, Inc",4148,Washington Island,2,Door,0.1,0.1,Petroleum Liquids,45.370922,-86.93082
+20153,"Washington Island El Coop, Inc",4148,Washington Island,3,Door,0.1,0.1,Petroleum Liquids,45.370922,-86.93082
+20153,"Washington Island El Coop, Inc",4148,Washington Island,4,Door,0.2,0.2,Petroleum Liquids,45.370922,-86.93082
+20153,"Washington Island El Coop, Inc",4148,Washington Island,5,Door,0.5,0.5,Petroleum Liquids,45.370922,-86.93082
+20153,"Washington Island El Coop, Inc",4148,Washington Island,6,Door,0.9,0.9,Petroleum Liquids,45.370922,-86.93082
+20153,"Washington Island El Coop, Inc",4148,Washington Island,7,Door,1.6,1.6,Petroleum Liquids,45.370922,-86.93082
+20153,"Washington Island El Coop, Inc",4148,Washington Island,8,Door,1.6,1.6,Petroleum Liquids,45.370922,-86.93082
+10056,City of Kaukauna,4201,Combined Locks,HC1,Outagamie,3.1,3.1,Conventional Hydroelectric,44.273511,-88.30055
+10056,City of Kaukauna,4201,Combined Locks,HC2,Outagamie,3.1,3.1,Conventional Hydroelectric,44.273511,-88.30055
+4716,Dairyland Power Coop,4271,John P Madgett,1,Buffalo,389.8,392.5,Conventional Steam Coal,44.303583,-91.91265
+13781,Northern States Power Co - Minnesota,6086,Cornell,1,Chippewa,6.2,6.2,Conventional Hydroelectric,45.164024,-91.15743
+13781,Northern States Power Co - Minnesota,6086,Cornell,2,Chippewa,6.4,6.4,Conventional Hydroelectric,45.164024,-91.15743
+13781,Northern States Power Co - Minnesota,6086,Cornell,3,Chippewa,6.9,6.9,Conventional Hydroelectric,45.164024,-91.15743
+13781,Northern States Power Co - Minnesota,6086,Cornell,4,Chippewa,0.4,0.4,Conventional Hydroelectric,45.164024,-91.15743
+13781,Northern States Power Co - Minnesota,6231,Apple River,1,St Croix,0.4,0.5,Conventional Hydroelectric,45.157552,-92.71621
+13781,Northern States Power Co - Minnesota,6231,Apple River,3,St Croix,0.5,0.6,Conventional Hydroelectric,45.157552,-92.71621
+13781,Northern States Power Co - Minnesota,6231,Apple River,4,St Croix,0.5,0.6,Conventional Hydroelectric,45.157552,-92.71621
+20847,Wisconsin Electric Power Co,6253,Germantown,1,Washington,49.2,69.9,Petroleum Liquids,43.1952,-88.1496
+20847,Wisconsin Electric Power Co,6253,Germantown,2,Washington,49,69.6,Petroleum Liquids,43.1952,-88.1496
+20847,Wisconsin Electric Power Co,6253,Germantown,3,Washington,47.5,67.5,Petroleum Liquids,43.1952,-88.1496
+20847,Wisconsin Electric Power Co,6253,Germantown,4,Washington,46.8,66.5,Petroleum Liquids,43.1952,-88.1496
+20847,Wisconsin Electric Power Co,6253,Germantown,5,Washington,76.2,103.9,Natural Gas Fired Combustion Turbine,43.1952,-88.1496
+4715,Dahlberg Light & Power Co,7058,Solon Diesel,1,Douglas,0.8,0.8,Petroleum Liquids,46.358956,-91.82363
+4715,Dahlberg Light & Power Co,7058,Solon Diesel,2,Douglas,0.8,0.8,Petroleum Liquids,46.358956,-91.82363
+4715,Dahlberg Light & Power Co,7058,Solon Diesel,3,Douglas,0.8,0.8,Petroleum Liquids,46.358956,-91.82363
+4715,Dahlberg Light & Power Co,7058,Solon Diesel,4,Douglas,0.8,0.8,Petroleum Liquids,46.358956,-91.82363
+4715,Dahlberg Light & Power Co,7058,Solon Diesel,5,Douglas,0.8,0.8,Petroleum Liquids,46.358956,-91.82363
+4715,Dahlberg Light & Power Co,7058,Solon Diesel,6,Douglas,0.8,0.8,Petroleum Liquids,46.358956,-91.82363
+4715,Dahlberg Light & Power Co,7058,Solon Diesel,7,Douglas,0.8,0.8,Petroleum Liquids,46.358956,-91.82363
+4715,Dahlberg Light & Power Co,7058,Solon Diesel,8,Douglas,0.8,0.8,Petroleum Liquids,46.358956,-91.82363
+20847,Wisconsin Electric Power Co,7159,Concord,1,Jefferson,92.5,100,Natural Gas Fired Combustion Turbine,43.1669,-88.69
+20847,Wisconsin Electric Power Co,7159,Concord,2,Jefferson,91.3,100,Natural Gas Fired Combustion Turbine,43.1669,-88.69
+20847,Wisconsin Electric Power Co,7159,Concord,3,Jefferson,90.7,100,Natural Gas Fired Combustion Turbine,43.1669,-88.69
+20847,Wisconsin Electric Power Co,7159,Concord,4,Jefferson,94,100,Natural Gas Fired Combustion Turbine,43.1669,-88.69
+20856,Wisconsin Power & Light Co,7203,South Fond Du Lac,CT1,Fond Du Lac,80.8,90.8,Natural Gas Fired Combustion Turbine,43.7353,-88.49667
+20856,Wisconsin Power & Light Co,7203,South Fond Du Lac,CT2,Fond Du Lac,81.3,91.5,Natural Gas Fired Combustion Turbine,43.7353,-88.49667
+20856,Wisconsin Power & Light Co,7203,South Fond Du Lac,CT3,Fond Du Lac,83.1,93.5,Natural Gas Fired Combustion Turbine,43.7353,-88.49667
+20856,Wisconsin Power & Light Co,7203,South Fond Du Lac,CT4,Fond Du Lac,83,93.3,Natural Gas Fired Combustion Turbine,43.7353,-88.49667
+20847,Wisconsin Electric Power Co,7270,Paris (WI),1,Kenosha,90.1,100,Natural Gas Fired Combustion Turbine,42.6658,-88.0131
+20847,Wisconsin Electric Power Co,7270,Paris (WI),2,Kenosha,89.9,100,Natural Gas Fired Combustion Turbine,42.6658,-88.0131
+20847,Wisconsin Electric Power Co,7270,Paris (WI),3,Kenosha,93.5,100,Natural Gas Fired Combustion Turbine,42.6658,-88.0131
+20847,Wisconsin Electric Power Co,7270,Paris (WI),4,Kenosha,90.4,100,Natural Gas Fired Combustion Turbine,42.6658,-88.0131
+11571,Manitowoc Public Utilities,7795,Custer Energy Center,1,Manitowoc,22,24,Natural Gas Fired Combustion Turbine,44.085437,-87.7261
+11479,Madison Gas & Electric Co,7799,West Marinette 34,34,Marinette,70.2,70.2,Natural Gas Fired Combustion Turbine,45.0869,-87.6892
+792,City of Argyle - (WI),7810,Argyle,5,Lafayette,2,2,Petroleum Liquids,42.7019,-89.8697
+10056,City of Kaukauna,7822,Kaukauna City Hydro,1,Outagamie,2.4,2.4,Conventional Hydroelectric,44.274582,-88.31907
+10056,City of Kaukauna,7822,Kaukauna City Hydro,2,Outagamie,2.4,2.4,Conventional Hydroelectric,44.274582,-88.31907
+4716,Dairyland Power Coop,7863,Elk Mound,1,Chippewa,30.7,40.4,Natural Gas Fired Combustion Turbine,44.902814,-91.5681
+4716,Dairyland Power Coop,7863,Elk Mound,2,Chippewa,33.9,44.3,Natural Gas Fired Combustion Turbine,44.902814,-91.5681
+11479,Madison Gas & Electric Co,7886,Wind Turbine,1,Kewaunee,11,11,Onshore Wind Turbine,44.6694,-87.6333
+11479,Madison Gas & Electric Co,7991,West Campus Cogeneration Facility,1,Dane,30.9,30.9,Natural Gas Fired Combined Cycle,43.075071,-89.4251
+11479,Madison Gas & Electric Co,7991,West Campus Cogeneration Facility,CT2,Dane,32.6,32.6,Natural Gas Fired Combined Cycle,43.075071,-89.4251
+11479,Madison Gas & Electric Co,7991,West Campus Cogeneration Facility,STG1,Dane,66.1,66.1,Natural Gas Fired Combined Cycle,43.075071,-89.4251
+13697,North Central Power Co Inc,8013,Winter,IC 1,Sawyer,2.8,2.8,Petroleum Liquids,45.836675,-90.97352
+13697,North Central Power Co Inc,8013,Winter,IC 2,Sawyer,2.8,2.8,Petroleum Liquids,45.836675,-90.97352
+20856,Wisconsin Power & Light Co,8023,Columbia (WI),1,Columbia,579.3,582.3,Conventional Steam Coal,43.4864,-89.4203
+20856,Wisconsin Power & Light Co,8023,Columbia (WI),2,Columbia,568.8,578.8,Conventional Steam Coal,43.4864,-89.4203
+11479,Madison Gas & Electric Co,9674,Nine Springs,GT1,Dane,12.6,12.6,Natural Gas Fired Combustion Turbine,43.0386,-89.3586
+61813,"ND Paper, Inc.",10234,Biron Mill,GEN1,Wood,15.3,15.3,Conventional Steam Coal,44.43,-89.78
+61813,"ND Paper, Inc.",10234,Biron Mill,GEN3,Wood,7.5,7.5,Natural Gas Steam Turbine,44.43,-89.78
+61813,"ND Paper, Inc.",10234,Biron Mill,GEN4,Wood,12.5,12.5,Natural Gas Steam Turbine,44.43,-89.78
+61813,"ND Paper, Inc.",10234,Biron Mill,GEN5,Wood,20,20,Conventional Steam Coal,44.43,-89.78
+55919,Georgia-Pacific Consumer Oper. Green Bay LLC,10360,Consumer Operations LLC,GEN6,Brown,18,18,Natural Gas Steam Turbine,44.4936,-88.0303
+55919,Georgia-Pacific Consumer Oper. Green Bay LLC,10360,Consumer Operations LLC,GEN7,Brown,23,23,Natural Gas Steam Turbine,44.4936,-88.0303
+58149,Renewable World Energies LLC,10453,LAC Courte Oreilles Hydroelect,U1,Sawyer,0.2,0.2,Conventional Hydroelectric,45.888333,-91.07694
+58149,Renewable World Energies LLC,10453,LAC Courte Oreilles Hydroelect,U2,Sawyer,1.5,1.5,Conventional Hydroelectric,45.888333,-91.07694
+58149,Renewable World Energies LLC,10453,LAC Courte Oreilles Hydroelect,U3,Sawyer,1.5,1.5,Conventional Hydroelectric,45.888333,-91.07694
+55965,Verso Corporation,10477,Wisconsin Rapids Pulp Mill,GEN1,Wood,27.2,32,Wood/Wood Waste Biomass,44.3953,-89.826
+55965,Verso Corporation,10477,Wisconsin Rapids Pulp Mill,GEN2,Wood,37.5,40.3,Wood/Wood Waste Biomass,44.3953,-89.826
+55997,Domtar Paper Company Rothschild,50190,Domtar Paper Company Rothschild,HG3,Marathon,0.6,0.6,Conventional Hydroelectric,44.8867,-89.6272
+55997,Domtar Paper Company Rothschild,50190,Domtar Paper Company Rothschild,HG7,Marathon,0.5,0.5,Conventional Hydroelectric,44.8867,-89.6272
+5033,Domtar Industries Inc,50395,Georgia-Pacific Corp - Nekoosa Mill,HY1,Wood,0.8,0.7,Conventional Hydroelectric,44.3142,-89.8964
+5033,Domtar Industries Inc,50395,Georgia-Pacific Corp - Nekoosa Mill,HY2,Wood,0.8,0.7,Conventional Hydroelectric,44.3142,-89.8964
+5033,Domtar Industries Inc,50395,Georgia-Pacific Corp - Nekoosa Mill,HY3,Wood,0.8,0.7,Conventional Hydroelectric,44.3142,-89.8964
+5033,Domtar Industries Inc,50395,Georgia-Pacific Corp - Nekoosa Mill,HY4,Wood,0.6,0.6,Conventional Hydroelectric,44.3142,-89.8964
+5033,Domtar Industries Inc,50395,Georgia-Pacific Corp - Nekoosa Mill,HY5,Wood,0.7,0.6,Conventional Hydroelectric,44.3142,-89.8964
+5033,Domtar Industries Inc,50395,Georgia-Pacific Corp - Nekoosa Mill,NHG1,Wood,0.2,0.2,Conventional Hydroelectric,44.3142,-89.8964
+5033,Domtar Industries Inc,50395,Georgia-Pacific Corp - Nekoosa Mill,TG14,Wood,12.5,12.1,Wood/Wood Waste Biomass,44.3142,-89.8964
+5033,Domtar Industries Inc,50395,Georgia-Pacific Corp - Nekoosa Mill,TG6,Wood,5.7,5.5,Natural Gas Steam Turbine,44.3142,-89.8964
+5033,Domtar Industries Inc,50395,Georgia-Pacific Corp - Nekoosa Mill,TG8,Wood,13,15,Natural Gas Steam Turbine,44.3142,-89.8964
+57280,"Eagle Creek Renewable Energy, LLC",50408,Park Mill,1,Marinette,0.4,0.4,Conventional Hydroelectric,45.1058,-87.6514
+57280,"Eagle Creek Renewable Energy, LLC",50408,Park Mill,10,Marinette,0.3,0.3,Conventional Hydroelectric,45.1058,-87.6514
+57280,"Eagle Creek Renewable Energy, LLC",50408,Park Mill,2,Marinette,0.2,0.2,Conventional Hydroelectric,45.1058,-87.6514
+57280,"Eagle Creek Renewable Energy, LLC",50408,Park Mill,3,Marinette,0.4,0.4,Conventional Hydroelectric,45.1058,-87.6514
+57280,"Eagle Creek Renewable Energy, LLC",50408,Park Mill,6,Marinette,0.4,0.4,Conventional Hydroelectric,45.1058,-87.6514
+57280,"Eagle Creek Renewable Energy, LLC",50408,Park Mill,7,Marinette,0.4,0.4,Conventional Hydroelectric,45.1058,-87.6514
+57280,"Eagle Creek Renewable Energy, LLC",50439,Oconto Falls Lower,GEN1,Oconto,0.3,0.3,Conventional Hydroelectric,44.8719,-88.1439
+57280,"Eagle Creek Renewable Energy, LLC",50439,Oconto Falls Lower,GEN2,Oconto,1.7,1.7,Conventional Hydroelectric,44.8719,-88.1439
+14369,PCA-Tomahawk Mill,50476,Packaging of America Tomahawk Mill,GEN1,Lincoln,5.4,5.8,Wood/Wood Waste Biomass,45.4431,-89.7342
+14369,PCA-Tomahawk Mill,50476,Packaging of America Tomahawk Mill,GEN2,Lincoln,8.2,8.9,Wood/Wood Waste Biomass,45.4431,-89.7342
+14369,PCA-Tomahawk Mill,50476,Packaging of America Tomahawk Mill,GEN3,Lincoln,0.5,0.6,Conventional Hydroelectric,45.4431,-89.7342
+14369,PCA-Tomahawk Mill,50476,Packaging of America Tomahawk Mill,GEN4,Lincoln,0.3,0.2,Conventional Hydroelectric,45.4431,-89.7342
+14369,PCA-Tomahawk Mill,50476,Packaging of America Tomahawk Mill,GEN5,Lincoln,0.3,0.3,Conventional Hydroelectric,45.4431,-89.7342
+54842,WM Renewable Energy LLC,50576,Metro Gas Recovery,GEN1,Milwaukee,2.9,3.3,Landfill Gas,42.850556,-88.06972
+54842,WM Renewable Energy LLC,50576,Metro Gas Recovery,GEN2,Milwaukee,2.9,3.3,Landfill Gas,42.850556,-88.06972
+54842,WM Renewable Energy LLC,50576,Metro Gas Recovery,GEN3,Milwaukee,0.8,0.8,Landfill Gas,42.850556,-88.06972
+54842,WM Renewable Energy LLC,50576,Metro Gas Recovery,GEN4,Milwaukee,0.8,0.8,Landfill Gas,42.850556,-88.06972
+54842,WM Renewable Energy LLC,50576,Metro Gas Recovery,GEN5,Milwaukee,0.8,0.8,Landfill Gas,42.850556,-88.06972
+54842,WM Renewable Energy LLC,50576,Metro Gas Recovery,GEN6,Milwaukee,0.8,0.8,Landfill Gas,42.850556,-88.06972
+54842,WM Renewable Energy LLC,50577,Omega Hills Gas Recovery,GEN1,Washington,2.9,3.3,Landfill Gas,43.1922,-88.1597
+54842,WM Renewable Energy LLC,50577,Omega Hills Gas Recovery,GEN2,Washington,2.9,3.3,Landfill Gas,43.1922,-88.1597
+54842,WM Renewable Energy LLC,50577,Omega Hills Gas Recovery,GEN3,Washington,3,3,Landfill Gas,43.1922,-88.1597
+54842,WM Renewable Energy LLC,50577,Omega Hills Gas Recovery,GEN5,Washington,2.9,3.3,Landfill Gas,43.1922,-88.1597
+13008,"Ahlstrom-Munksjo NA Specialty Solutions, LLC",50614,Mosinee Mill,GEN1,Marathon,13,13,Wood/Wood Waste Biomass,44.7881,-89.6917
+13008,"Ahlstrom-Munksjo NA Specialty Solutions, LLC",50614,Mosinee Mill,HYD1,Marathon,2,2,Conventional Hydroelectric,44.7881,-89.6917
+13008,"Ahlstrom-Munksjo NA Specialty Solutions, LLC",50614,Mosinee Mill,HYD2,Marathon,0.7,0.7,Conventional Hydroelectric,44.7881,-89.6917
+13008,"Ahlstrom-Munksjo NA Specialty Solutions, LLC",50614,Mosinee Mill,HYD3,Marathon,0.7,0.7,Conventional Hydroelectric,44.7881,-89.6917
+13008,"Ahlstrom-Munksjo NA Specialty Solutions, LLC",50614,Mosinee Mill,WEST,Marathon,5,5,Wood/Wood Waste Biomass,44.7881,-89.6917
+61707,Ahlstrom-Munksjo,50933,Rhinelander Mill,GEN5,Oneida,4,7,Natural Gas Steam Turbine,45.6394,-89.4205
+61707,Ahlstrom-Munksjo,50933,Rhinelander Mill,GEN6,Oneida,6.3,8.5,Conventional Steam Coal,45.6394,-89.4205
+61707,Ahlstrom-Munksjo,50933,Rhinelander Mill,HYD1,Oneida,0.5,0.5,Conventional Hydroelectric,45.6394,-89.4205
+61707,Ahlstrom-Munksjo,50933,Rhinelander Mill,HYD2,Oneida,0.5,0.5,Conventional Hydroelectric,45.6394,-89.4205
+61707,Ahlstrom-Munksjo,50933,Rhinelander Mill,HYD3,Oneida,1,1,Conventional Hydroelectric,45.6394,-89.4205
+20854,Winnebago County,50936,Winnebago County Landfill Gas,EG2R,Winnebago,0.6,0.6,Landfill Gas,44.083,-88.5411
+20854,Winnebago County,50936,Winnebago County Landfill Gas,EG3,Winnebago,0.9,0.9,Landfill Gas,44.083,-88.5411
+20854,Winnebago County,50936,Winnebago County Landfill Gas,EG4,Winnebago,1,1,Landfill Gas,44.083,-88.5411
+54738,Thilmany LLC,54098,Kaukauna Paper Mill,GEN1,Outagamie,6,6,Wood/Wood Waste Biomass,44.2826,-88.2534
+54738,Thilmany LLC,54098,Kaukauna Paper Mill,GEN2,Outagamie,11,11,Wood/Wood Waste Biomass,44.2826,-88.2534
+54738,Thilmany LLC,54098,Kaukauna Paper Mill,GEN3,Outagamie,15.6,15.6,Wood/Wood Waste Biomass,44.2826,-88.2534
+54738,Thilmany LLC,54098,Kaukauna Paper Mill,GEN4,Outagamie,12,12,Conventional Steam Coal,44.2826,-88.2534
+5033,Domtar Industries Inc,54103,Port Edwards Mill,HG1,Wood,0.4,0.4,Conventional Hydroelectric,44.3364,-89.8672
+5033,Domtar Industries Inc,54103,Port Edwards Mill,HG2,Wood,0.4,0.4,Conventional Hydroelectric,44.3364,-89.8672
+5033,Domtar Industries Inc,54103,Port Edwards Mill,HG3,Wood,0.4,0.4,Conventional Hydroelectric,44.3364,-89.8672
+5033,Domtar Industries Inc,54103,Port Edwards Mill,HG4,Wood,0.4,0.4,Conventional Hydroelectric,44.3364,-89.8672
+5033,Domtar Industries Inc,54103,Port Edwards Mill,HG5,Wood,0.8,0.7,Conventional Hydroelectric,44.3364,-89.8672
+5033,Domtar Industries Inc,54103,Port Edwards Mill,HG6,Wood,0.8,0.7,Conventional Hydroelectric,44.3364,-89.8672
+5033,Domtar Industries Inc,54103,Port Edwards Mill,JHG1,Wood,1.2,1.2,Conventional Hydroelectric,44.3364,-89.8672
+5033,Domtar Industries Inc,54103,Port Edwards Mill,JHG2,Wood,0.6,0.6,Conventional Hydroelectric,44.3364,-89.8672
+5033,Domtar Industries Inc,54103,Port Edwards Mill,JHG3,Wood,0.6,0.6,Conventional Hydroelectric,44.3364,-89.8672
+5033,Domtar Industries Inc,54103,Port Edwards Mill,JHG4,Wood,0.4,0.4,Conventional Hydroelectric,44.3364,-89.8672
+5033,Domtar Industries Inc,54103,Port Edwards Mill,JHG5,Wood,0.6,0.6,Conventional Hydroelectric,44.3364,-89.8672
+18028,State of Wisconsin,54406,Capitol Heat and Power,P31,Dane,1,1,Petroleum Liquids,43.078512,-89.37726
+18028,State of Wisconsin,54406,Capitol Heat and Power,P32,Dane,1,1,Petroleum Liquids,43.078512,-89.37726
+18028,State of Wisconsin,54407,Waupun Correctional Central Heating Plt,1,Dodge,1,1,Natural Gas Steam Turbine,43.6233,-88.7297
+18028,State of Wisconsin,54407,Waupun Correctional Central Heating Plt,2,Dodge,1,1,Natural Gas Steam Turbine,43.6233,-88.7297
+18028,State of Wisconsin,54407,Waupun Correctional Central Heating Plt,3,Dodge,0.8,0.8,Petroleum Liquids,43.6233,-88.7297
+18028,State of Wisconsin,54407,Waupun Correctional Central Heating Plt,4,Dodge,1.5,1.5,Petroleum Liquids,43.6233,-88.7297
+18028,State of Wisconsin,54408,UW Madison Charter Street Plant,1,Dane,9.7,9.7,Natural Gas Steam Turbine,43.07,-89.4006
+18028,State of Wisconsin,54408,UW Madison Charter Street Plant,3,Dane,1.3,1.3,Petroleum Liquids,43.07,-89.4006
+54842,WM Renewable Energy LLC,54661,Pheasant Run Landfill Gas Recovery,GE10,Kenosha,0.8,0.8,Landfill Gas,42.5825,-88.0436
+54842,WM Renewable Energy LLC,54661,Pheasant Run Landfill Gas Recovery,GE11,Kenosha,0.8,0.8,Landfill Gas,42.5825,-88.0436
+54842,WM Renewable Energy LLC,54661,Pheasant Run Landfill Gas Recovery,GEN1,Kenosha,0.8,0.8,Landfill Gas,42.5825,-88.0436
+54842,WM Renewable Energy LLC,54661,Pheasant Run Landfill Gas Recovery,GEN2,Kenosha,0.8,0.8,Landfill Gas,42.5825,-88.0436
+54842,WM Renewable Energy LLC,54661,Pheasant Run Landfill Gas Recovery,GEN3,Kenosha,0.8,0.8,Landfill Gas,42.5825,-88.0436
+54842,WM Renewable Energy LLC,54661,Pheasant Run Landfill Gas Recovery,GEN4,Kenosha,0.8,0.8,Landfill Gas,42.5825,-88.0436
+54842,WM Renewable Energy LLC,54661,Pheasant Run Landfill Gas Recovery,GEN5,Kenosha,0.8,0.8,Landfill Gas,42.5825,-88.0436
+54842,WM Renewable Energy LLC,54661,Pheasant Run Landfill Gas Recovery,GEN6,Kenosha,0.8,0.8,Landfill Gas,42.5825,-88.0436
+54842,WM Renewable Energy LLC,54661,Pheasant Run Landfill Gas Recovery,GEN7,Kenosha,0.8,0.8,Landfill Gas,42.5825,-88.0436
+54842,WM Renewable Energy LLC,54661,Pheasant Run Landfill Gas Recovery,GEN8,Kenosha,0.8,0.8,Landfill Gas,42.5825,-88.0436
+54842,WM Renewable Energy LLC,54661,Pheasant Run Landfill Gas Recovery,GEN9,Kenosha,0.8,0.8,Landfill Gas,42.5825,-88.0436
+12619,Milwaukee Metro Sewerage Dist,54851,MMSD Jones Island Wastewater,GEN1,Milwaukee,13,15,Natural Gas Fired Combustion Turbine,43.0214,-87.9014
+12619,Milwaukee Metro Sewerage Dist,54851,MMSD Jones Island Wastewater,SOL1,Milwaukee,4.6,4.6,Natural Gas Fired Combustion Turbine,43.0214,-87.9014
+12619,Milwaukee Metro Sewerage Dist,54851,MMSD Jones Island Wastewater,SOL2,Milwaukee,4.6,4.6,Landfill Gas,43.0214,-87.9014
+12619,Milwaukee Metro Sewerage Dist,54851,MMSD Jones Island Wastewater,SOL3,Milwaukee,4.6,4.6,Landfill Gas,43.0214,-87.9014
+10056,City of Kaukauna,54885,Kimberly Mill,1H,Outagamie,0.7,0.7,Conventional Hydroelectric,44.2769,-88.3344
+10056,City of Kaukauna,54885,Kimberly Mill,2H,Outagamie,0.7,0.7,Conventional Hydroelectric,44.2769,-88.3344
+10056,City of Kaukauna,54885,Kimberly Mill,3H,Outagamie,0.7,0.7,Conventional Hydroelectric,44.2769,-88.3344
+55911,Whitewater Operating Services LLC,55011,LSP-Whitewater LP,CTG1,Jefferson,162,175,Natural Gas Fired Combined Cycle,42.855463,-88.72992
+55911,Whitewater Operating Services LLC,55011,LSP-Whitewater LP,STG1,Jefferson,99,97,Natural Gas Fired Combined Cycle,42.855463,-88.72992
+20860,Wisconsin Public Service Corp,55029,De Pere Energy Center,CT01,Brown,166,193.2,Natural Gas Fired Combustion Turbine,44.44861,-88.07204
+20856,Wisconsin Power & Light Co,55135,Alliant Energy Neenah,CT01,Winnebago,150.6,171.2,Natural Gas Fired Combustion Turbine,44.1936,-88.5064
+20856,Wisconsin Power & Light Co,55135,Alliant Energy Neenah,CT02,Winnebago,153.9,175.1,Natural Gas Fired Combustion Turbine,44.1936,-88.5064
+4716,Dairyland Power Coop,55391,RockGen Energy Center,01,Dane,163,163,Natural Gas Fired Combustion Turbine,42.9767,-89.0492
+4716,Dairyland Power Coop,55391,RockGen Energy Center,02,Dane,163,163,Natural Gas Fired Combustion Turbine,42.9767,-89.0492
+4716,Dairyland Power Coop,55391,RockGen Energy Center,03,Dane,163,163,Natural Gas Fired Combustion Turbine,42.9767,-89.0492
+12619,Milwaukee Metro Sewerage Dist,55525,MMSD South Shore Wastewater,1,Milwaukee,1.4,1.4,Other Waste Biomass,42.8869,-87.8422
+12619,Milwaukee Metro Sewerage Dist,55525,MMSD South Shore Wastewater,1CAT,Milwaukee,0.9,0.9,Other Waste Biomass,42.8869,-87.8422
+12619,Milwaukee Metro Sewerage Dist,55525,MMSD South Shore Wastewater,2CAT,Milwaukee,0.9,0.9,Other Waste Biomass,42.8869,-87.8422
+12619,Milwaukee Metro Sewerage Dist,55525,MMSD South Shore Wastewater,3CAT,Milwaukee,0.9,0.9,Other Waste Biomass,42.8869,-87.8422
+12619,Milwaukee Metro Sewerage Dist,55525,MMSD South Shore Wastewater,4CAT,Milwaukee,0.9,0.9,Other Waste Biomass,42.8869,-87.8422
+744,Appleton Coated LLC,55558,Combined Locks Energy Center,GEN1,Outagamie,45.9,47,Natural Gas Fired Combined Cycle,44.2717,-88.3011
+744,Appleton Coated LLC,55558,Combined Locks Energy Center,GEN2,Outagamie,6,6,Natural Gas Fired Combined Cycle,44.2717,-88.3011
+20856,Wisconsin Power & Light Co,55641,Riverside Energy Center,CTG1,Rock,155.2,166.7,Natural Gas Fired Combined Cycle,42.583056,-89.03583
+20856,Wisconsin Power & Light Co,55641,Riverside Energy Center,CTG2,Rock,153.3,164.6,Natural Gas Fired Combined Cycle,42.583056,-89.03583
+20856,Wisconsin Power & Light Co,55641,Riverside Energy Center,STG1,Rock,251.9,257.3,Natural Gas Fired Combined Cycle,42.583056,-89.03583
+58149,Renewable World Energies LLC,55684,Flambeau Crowley Rapids Project,GEN1,Price,1,1,Conventional Hydroelectric,45.8683,-90.5844
+58149,Renewable World Energies LLC,55684,Flambeau Crowley Rapids Project,GEN2,Price,0.5,0.5,Conventional Hydroelectric,45.8683,-90.5844
+58149,Renewable World Energies LLC,55685,Flambeau Lower Project,GEN1,Price,0.4,0.4,Conventional Hydroelectric,45.913526,-90.44746
+58149,Renewable World Energies LLC,55685,Flambeau Lower Project,GEN2,Price,0.4,0.4,Conventional Hydroelectric,45.913526,-90.44746
+58149,Renewable World Energies LLC,55685,Flambeau Lower Project,GEN3,Price,0.4,0.4,Conventional Hydroelectric,45.913526,-90.44746
+20847,Wisconsin Electric Power Co,55742,Montfort Wind Energy Center,ER15,Iowa,30,30,Onshore Wind Turbine,42.9625,-90.38667
+20858,WPPI Energy,55836,Island Street Peaking Plant,FT81,Outagamie,52.4,60,Natural Gas Fired Combustion Turbine,44.2761,-88.2658
+61723,"Pixelle Specialty Solution, LLC",55861,Stevens Point Mill,SP,Portage,7,7,Natural Gas Steam Turbine,44.3528,-89.5836
+1687,Bio-Energy Partners,55925,Ridgeview,GEN1,Manitowoc,0.8,0.8,Landfill Gas,44.175007,-87.82852
+1687,Bio-Energy Partners,55925,Ridgeview,GEN2,Manitowoc,0.8,0.8,Landfill Gas,44.175007,-87.82852
+1687,Bio-Energy Partners,55925,Ridgeview,GEN5,Manitowoc,0.8,0.8,Landfill Gas,44.175007,-87.82852
+1687,Bio-Energy Partners,55925,Ridgeview,GEN6,Manitowoc,0.8,0.8,Landfill Gas,44.175007,-87.82852
+1687,Bio-Energy Partners,55925,Ridgeview,GEN7,Manitowoc,0.8,0.8,Landfill Gas,44.175007,-87.82852
+1687,Bio-Energy Partners,55925,Ridgeview,GEN8,Manitowoc,0.8,0.8,Landfill Gas,44.175007,-87.82852
+13815,Northwestern Wisconsin Elec Co,55998,Danbury Diesel,GT1,Burnett,4,4,Petroleum Liquids,46.002834,-92.37138
+13815,Northwestern Wisconsin Elec Co,55998,Danbury Diesel,IC1,Burnett,0.5,0.5,Petroleum Liquids,46.002834,-92.37138
+13815,Northwestern Wisconsin Elec Co,55998,Danbury Diesel,IC2,Burnett,0.5,0.5,Petroleum Liquids,46.002834,-92.37138
+20860,Wisconsin Public Service Corp,56031,Fox Energy Center,CTG1,Outagamie,170.8,200.3,Natural Gas Fired Combined Cycle,44.3204,-88.20889
+20860,Wisconsin Public Service Corp,56031,Fox Energy Center,CTG2,Outagamie,162.8,200.3,Natural Gas Fired Combined Cycle,44.3204,-88.20889
+20860,Wisconsin Public Service Corp,56031,Fox Energy Center,STG,Outagamie,243.9,244.2,Natural Gas Fired Combined Cycle,44.3204,-88.20889
+20847,Wisconsin Electric Power Co,56068,Elm Road Generating Station,1,Milwaukee,635.9,637.3,Conventional Steam Coal,42.8492,-87.8336
+20847,Wisconsin Electric Power Co,56068,Elm Road Generating Station,2,Milwaukee,634.9,638.1,Conventional Steam Coal,42.8492,-87.8336
+54842,WM Renewable Energy LLC,56069,Berlin Landfill Gas,1,Green Lake,0.8,0.8,Landfill Gas,43.9603,-88.9158
+54842,WM Renewable Energy LLC,56069,Berlin Landfill Gas,2,Green Lake,0.8,0.8,Landfill Gas,43.9603,-88.9158
+54842,WM Renewable Energy LLC,56069,Berlin Landfill Gas,3,Green Lake,0.8,0.8,Landfill Gas,43.9603,-88.9158
+11479,Madison Gas & Electric Co,56070,Diesel Generators,1,Dane,53.8,53.8,Petroleum Liquids,43.0802,-89.3747
+20856,Wisconsin Power & Light Co,56166,Sheboygan Falls,1,Sheboygan,151.9,172.6,Natural Gas Fired Combustion Turbine,43.751826,-87.87806
+20856,Wisconsin Power & Light Co,56166,Sheboygan Falls,2,Sheboygan,149.2,169.5,Natural Gas Fired Combustion Turbine,43.751826,-87.87806
+20856,Wisconsin Power & Light Co,56347,Cedar Ridge,1,Fond Du Lac,67.7,67.7,Onshore Wind Turbine,43.692647,-88.32974
+20847,Wisconsin Electric Power Co,56391,Blue Sky Green Field Wind Project,1,Fond Du Lac,145.2,145.2,Onshore Wind Turbine,43.8794,-88.2708
+54813,AMERESCO Janesville LLC,56427,Ameresco Janesville,Unit1,Rock,1,1,Landfill Gas,42.7083,-89.0208
+54813,AMERESCO Janesville LLC,56427,Ameresco Janesville,Unit2,Rock,1,1,Landfill Gas,42.7083,-89.0208
+54813,AMERESCO Janesville LLC,56427,Ameresco Janesville,Unit3,Rock,1,1,Landfill Gas,42.7083,-89.0208
+11740,City of Marshfield - (WI),56480,Marshfield Utilities Gas Plant,M1,Wood,53.3,60.2,Natural Gas Fired Combustion Turbine,44.634722,-90.13444
+54842,WM Renewable Energy LLC,56520,Deertrack Park Gas Recovery,GEN1,Jefferson,0.8,0.8,Landfill Gas,43.089999,-88.73968
+54842,WM Renewable Energy LLC,56520,Deertrack Park Gas Recovery,GEN2,Jefferson,0.8,0.8,Landfill Gas,43.089999,-88.73968
+54842,WM Renewable Energy LLC,56520,Deertrack Park Gas Recovery,GEN3,Jefferson,0.8,0.8,Landfill Gas,43.089999,-88.73968
+54842,WM Renewable Energy LLC,56520,Deertrack Park Gas Recovery,GEN4,Jefferson,0.8,0.8,Landfill Gas,43.089999,-88.73968
+54842,WM Renewable Energy LLC,56520,Deertrack Park Gas Recovery,GEN5,Jefferson,0.8,0.8,Landfill Gas,43.089999,-88.73968
+54842,WM Renewable Energy LLC,56520,Deertrack Park Gas Recovery,GEN6,Jefferson,0.8,0.8,Landfill Gas,43.089999,-88.73968
+54842,WM Renewable Energy LLC,56520,Deertrack Park Gas Recovery,GEN7,Jefferson,0.8,0.8,Landfill Gas,43.089999,-88.73968
+54842,WM Renewable Energy LLC,56520,Deertrack Park Gas Recovery,GEN8,Jefferson,0.8,0.8,Landfill Gas,43.089999,-88.73968
+54842,WM Renewable Energy LLC,56525,Timberline Trail Gas Recovery,GEN2,Rusk,0.8,0.8,Landfill Gas,45.4533,-91.3583
+54842,WM Renewable Energy LLC,56525,Timberline Trail Gas Recovery,GEN3,Rusk,0.8,0.8,Landfill Gas,45.4533,-91.3583
+54842,WM Renewable Energy LLC,56525,Timberline Trail Gas Recovery,GEN4,Rusk,0.8,0.8,Landfill Gas,45.4533,-91.3583
+54842,WM Renewable Energy LLC,56525,Timberline Trail Gas Recovery,GEN5,Rusk,0.8,0.8,Landfill Gas,45.4533,-91.3583
+56484,Butler Ridge Wind Energy Center,56647,Butler Ridge,1,Dodge,54,54,Onshore Wind Turbine,43.400278,-88.48111
+20860,Wisconsin Public Service Corp,56942,Forward Wind Energy Center,1,Dodge,99,99,Onshore Wind Turbine,43.6161,-88.4969
+20860,Wisconsin Public Service Corp,56942,Forward Wind Energy Center,2,Dodge,30,30,Onshore Wind Turbine,43.6161,-88.4969
+56424,Quilt Block Wind Farm LLC,57116,Quilt Block Wind Farm LLC,GEN 1,Lafayette,98,98,Onshore Wind Turbine,42.673333,-90.26528
+57280,"Eagle Creek Renewable Energy, LLC",57190,Little Quinnesec Falls Hydro Project,UNIT1,Marinette,1.9,1.9,Conventional Hydroelectric,45.7736,-87.9894
+57280,"Eagle Creek Renewable Energy, LLC",57190,Little Quinnesec Falls Hydro Project,UNIT2,Marinette,0.8,0.8,Conventional Hydroelectric,45.7736,-87.9894
+57280,"Eagle Creek Renewable Energy, LLC",57190,Little Quinnesec Falls Hydro Project,UNIT3,Marinette,1.9,1.9,Conventional Hydroelectric,45.7736,-87.9894
+57280,"Eagle Creek Renewable Energy, LLC",57190,Little Quinnesec Falls Hydro Project,UNIT4,Marinette,1,1,Conventional Hydroelectric,45.7736,-87.9894
+57280,"Eagle Creek Renewable Energy, LLC",57190,Little Quinnesec Falls Hydro Project,UNIT5,Marinette,1,1,Conventional Hydroelectric,45.7736,-87.9894
+57280,"Eagle Creek Renewable Energy, LLC",57190,Little Quinnesec Falls Hydro Project,UNIT6,Marinette,2.4,2.4,Conventional Hydroelectric,45.7736,-87.9894
+20847,Wisconsin Electric Power Co,57199,Glacier Hills,1,Columbia,162,162,Onshore Wind Turbine,43.563889,-89.14806
+65411,Duke Energy Renewables Services,57553,Shirley Wind,1,Brown,20,20,Onshore Wind Turbine,44.3481,-87.9278
+57142,Gundersen Lutheran Biogas I LLC,57824,Onalaska Campus Landfill Biogas,416LF,La Crosse,1.1,1.1,Landfill Gas,43.873889,-91.18
+57340,Cashton Greens Wind Farm LLC,57968,Cashton Greens Wind Farm,CGWF,Monroe,4.8,4.8,Onshore Wind Turbine,43.733889,-90.805
+20847,Wisconsin Electric Power Co,58124,Rothschild Biomass Cogen Facility,1,Marathon,46.6,46.8,Wood/Wood Waste Biomass,44.887778,-89.62972
+63479,Viresco Turtle Lake,58747,Viresco Turtle Lake,GEN1,Polk,1.6,1.6,Other Waste Biomass,45.390278,-92.1625
+63479,Viresco Turtle Lake,58747,Viresco Turtle Lake,GEN2,Polk,1.6,1.6,Other Waste Biomass,45.390278,-92.1625
+58709,Richland Center Renewable Energy LLC,58834,Richland Center Renewable Energy LLC,UNIT1,Richland,0.8,0.8,Other Waste Biomass,43.314444,-90.37306
+58709,Richland Center Renewable Energy LLC,58834,Richland Center Renewable Energy LLC,UNIT2,Richland,0.8,0.8,Other Waste Biomass,43.314444,-90.37306
+59216,"S.C. Johnson & Son, Inc.",59448,Waxdale,CGEN1,Racine,3.5,3.5,Landfill Gas,42.709444,-87.88528
+59216,"S.C. Johnson & Son, Inc.",59448,Waxdale,CGEN2,Racine,3.5,3.5,Natural Gas Fired Combustion Turbine,42.709444,-87.88528
+59216,"S.C. Johnson & Son, Inc.",59448,Waxdale,WEC01,Racine,1.5,1.5,Onshore Wind Turbine,42.709444,-87.88528
+59216,"S.C. Johnson & Son, Inc.",59448,Waxdale,WEC02,Racine,1.5,1.5,Onshore Wind Turbine,42.709444,-87.88528
+59209,Concord New Energy,59771,Jefferson Solar Park,JSP01,Jefferson,1,1,Solar Photovoltaic,43.0146,-88.7992
+58303,Energy Systems Group LLC,59810,Dairyland WTE Plant,GEN1,Brown,0.7,0.7,Other Waste Biomass,44.540115,-87.80559
+58303,Energy Systems Group LLC,59810,Dairyland WTE Plant,GEN2,Brown,0.7,0.7,Other Waste Biomass,44.540115,-87.80559
+20847,Wisconsin Electric Power Co,59836,Twin Falls (WI),11,Florence,4.6,4.6,Conventional Hydroelectric,45.872778,-88.07083
+20847,Wisconsin Electric Power Co,59836,Twin Falls (WI),12,Florence,4.6,4.6,Conventional Hydroelectric,45.872778,-88.07083
+59688,"FCPC Renewable Generation, LLC",59931,FCPC Renewable Generation,GEN2,Milwaukee,1,1,Other Waste Biomass,43.030016,-87.94091
+60338,HQC Rock River Solar Power Generation Station LLC,60573,HQC Rock River Solar Power Gen Station,PV1,Rock,2.1,2.1,Solar Photovoltaic,42.578831,-89.03302
+60520,SoCore Energy LLC,60887,Sauk DPC Solar,PV1,Vernon,1,1,Solar Photovoltaic,43.59591,-90.3226
+60520,SoCore Energy LLC,60888,Lafayette DPC Solar,PV1,Chippewa,1,1,Solar Photovoltaic,44.88782,-91.3524
+60520,SoCore Energy LLC,60889,Conrath DPC Solar,PV1,Rusk,1,1,Solar Photovoltaic,45.36614,-91.0482
+60520,SoCore Energy LLC,60890,Warren DPC Solar,PV1,St Croix,2.2,2.2,Solar Photovoltaic,44.95963,-92.5182
+60520,SoCore Energy LLC,60891,Liberty Pole DPC Solar,PV1,Vernon,1.1,1.1,Solar Photovoltaic,43.49412,-90.9071
+60520,SoCore Energy LLC,60892,Downsville DPC Solar,PV1,Dunn,1,1,Solar Photovoltaic,44.81423,-91.8841
+60520,SoCore Energy LLC,60893,Mt. Hope DPC Solar,PV1,Grant,1,1,Solar Photovoltaic,42.97498,-90.8318
+60520,SoCore Energy LLC,60894,Medford DPC Solar,PV1,Taylor,2,2,Solar Photovoltaic,45.16305,-90.3729
+60520,SoCore Energy LLC,60895,Whistling Winds DPC Solar,PV1,Juneau,1.5,1.5,Solar Photovoltaic,43.9721,-90.0719
+60520,SoCore Energy LLC,60936,New Auburn DPC Solar,PV1,Chippewa,2.5,2.5,Solar Photovoltaic,45.21,-91.4353
+60520,SoCore Energy LLC,60957,Sand Lake DPC Solar,PV1,Polk,1,1,Solar Photovoltaic,45.4455,-92.549
+61202,"Flambeau Solar Partners, LLC",61595,Flambeau Solar Partners,FLAMB,Price,2.5,2.5,Solar Photovoltaic,45.7368,-90.471
+61266,"Fiber Recovery, Inc",61652,"Fiber Recovery, Inc.",ENG1,Marathon,0.8,0.8,Landfill Gas,44.8875,-89.3859
+61266,"Fiber Recovery, Inc",61652,"Fiber Recovery, Inc.",ENG2,Marathon,0.8,0.8,Landfill Gas,44.8875,-89.3859
+61266,"Fiber Recovery, Inc",61652,"Fiber Recovery, Inc.",ENG3,Marathon,0.8,0.8,Landfill Gas,44.8875,-89.3859
+57389,IKEA Property Inc,61816,IKEA Oak Creek Rooftop PV System,PV1,Milwaukee,1.2,1.2,Solar Photovoltaic,42.902949,-87.93545
+61967,Beloit Memorial Hospital,62117,Beloit Memorial Hospital Power Plant,GEN-1,Rock,1.5,1.5,Natural Gas Internal Combustion Engine,42.5486,-89.0083
+61967,Beloit Memorial Hospital,62117,Beloit Memorial Hospital Power Plant,GEN-2,Rock,1.5,1.5,Natural Gas Internal Combustion Engine,42.5486,-89.0083
+61667,Galactic Wind,62161,Galactic Wind,GWT,Dane,9.9,9.9,Onshore Wind Turbine,43.101605,-89.33186
+61702,"Epic Hosting, LLC",62676,Epic Verona,G101,Dane,2.3,2.3,Petroleum Liquids,42.996838,-89.56875
+61702,"Epic Hosting, LLC",62676,Epic Verona,G102,Dane,2.3,2.3,Petroleum Liquids,42.996838,-89.56875
+61702,"Epic Hosting, LLC",62676,Epic Verona,G103,Dane,2.3,2.3,Petroleum Liquids,42.996838,-89.56875
+61702,"Epic Hosting, LLC",62676,Epic Verona,G104,Dane,2.3,2.3,Petroleum Liquids,42.996838,-89.56875
+61702,"Epic Hosting, LLC",62676,Epic Verona,G105,Dane,2.3,2.3,Petroleum Liquids,42.996838,-89.56875
+61702,"Epic Hosting, LLC",62676,Epic Verona,G202,Dane,2.3,2.3,Petroleum Liquids,42.996838,-89.56875
+61702,"Epic Hosting, LLC",62676,Epic Verona,G203,Dane,2.3,2.3,Petroleum Liquids,42.996838,-89.56875
+61702,"Epic Hosting, LLC",62676,Epic Verona,G204,Dane,2.3,2.3,Petroleum Liquids,42.996838,-89.56875
+61702,"Epic Hosting, LLC",62676,Epic Verona,G205,Dane,2.3,2.3,Petroleum Liquids,42.996838,-89.56875
+61702,"Epic Hosting, LLC",62676,Epic Verona,G206,Dane,2.3,2.3,Petroleum Liquids,42.996838,-89.56875
+61702,"Epic Hosting, LLC",62676,Epic Verona,G207,Dane,2.3,2.3,Petroleum Liquids,42.996838,-89.56875
+61702,"Epic Hosting, LLC",62676,Epic Verona,G208,Dane,2.3,2.3,Petroleum Liquids,42.996838,-89.56875
+61702,"Epic Hosting, LLC",62676,Epic Verona,G209,Dane,2.3,2.3,Petroleum Liquids,42.996838,-89.56875
+61702,"Epic Hosting, LLC",62676,Epic Verona,G210,Dane,2.3,2.3,Petroleum Liquids,42.996838,-89.56875
+61702,"Epic Hosting, LLC",62676,Epic Verona,G211,Dane,2.3,2.3,Petroleum Liquids,42.996838,-89.56875
+61702,"Epic Hosting, LLC",62676,Epic Verona,G301,Dane,2.3,2.3,Petroleum Liquids,42.996838,-89.56875
+61702,"Epic Hosting, LLC",62676,Epic Verona,G302,Dane,2.3,2.3,Petroleum Liquids,42.996838,-89.56875
+61702,"Epic Hosting, LLC",62676,Epic Verona,G303,Dane,2.3,2.3,Petroleum Liquids,42.996838,-89.56875
+61702,"Epic Hosting, LLC",62676,Epic Verona,PV,Dane,1.8,1.8,Solar Photovoltaic,42.996838,-89.56875
+11479,Madison Gas & Electric Co,62731,Middleton Airport Solar,1,Dane,5.6,5.6,Solar Photovoltaic,43.11626,-89.53245
+62662,"Butter Solar, LLC",62744,Arcadia Solar,A1,Trempealeau,5,5,Solar Photovoltaic,44.243436,-91.45824
+62662,"Butter Solar, LLC",62847,Fennimore Solar,FEN6,Grant,3,3,Solar Photovoltaic,42.971,-90.662
+62662,"Butter Solar, LLC",62848,New Lisbon Solar,NEW9,Juneau,2.5,2.5,Solar Photovoltaic,43.883,-90.136
+62662,"Butter Solar, LLC",62849,Cumberland Solar,CUM4,Barron,2.5,2.5,Solar Photovoltaic,45.511,-92.025
+62662,"Butter Solar, LLC",62858,Cashton Solar,CAS3,Monroe,2,2,Solar Photovoltaic,43.737,-90.805
+62662,"Butter Solar, LLC",62868,Elroy Solar,ELR5,Juneau,1.5,1.5,Solar Photovoltaic,43.732,-90.025
+20860,Wisconsin Public Service Corp,62955,Badger Hollow I,GEN1,Iowa,150,150,Solar Photovoltaic,42.94556,-90.34942
+20860,Wisconsin Public Service Corp,63105,Two Creeks Solar,1,Manitowoc,150,150,Solar Photovoltaic,44.249598,-87.54534
+20856,Wisconsin Power & Light Co,64020,West Riverside Energy Center,CTG3,Rock,226.1,234.9,Natural Gas Fired Combined Cycle,42.582051,-89.04121
+20856,Wisconsin Power & Light Co,64020,West Riverside Energy Center,CTG4,Rock,224.8,232.7,Natural Gas Fired Combined Cycle,42.582051,-89.04121
+20856,Wisconsin Power & Light Co,64020,West Riverside Energy Center,PV1,Rock,4.4,4.4,Solar Photovoltaic,42.582051,-89.04121
+20856,Wisconsin Power & Light Co,64020,West Riverside Energy Center,STG2,Rock,255.1,258.3,Natural Gas Fired Combined Cycle,42.582051,-89.04121
+11479,Madison Gas & Electric Co,64080,Dane County Airport Solar,1,Dane,10.8,10.8,Solar Photovoltaic,43.160591,-89.3295
+64081,Point Beach Solar,64431,Point Beach Solar,PBS,Manitowoc,100,100,Solar Photovoltaic,44.28337,-87.55533
+11479,Madison Gas & Electric Co,64590,O'Brien Solar Fields,OBSFN,Dane,8.3,8.3,Solar Photovoltaic,42.997665,-89.45895
+11479,Madison Gas & Electric Co,64590,O'Brien Solar Fields,OBSFS,Dane,8.3,8.3,Solar Photovoltaic,42.997665,-89.45895
+11479,Madison Gas & Electric Co,64590,O'Brien Solar Fields,OBSFW,Dane,5.5,5.5,Solar Photovoltaic,42.997665,-89.45895
+60025,Greenbacker Renewable Energy Corporation,64698,"Blue Prairie Solar, LLC",508,Jackson,2.5,2.5,Solar Photovoltaic,44.285255,-90.9158
+60571,"AEP Onsite Partners, LLC",64714,Rice Lake Solar Array,RLK01,Barron,3.8,3.8,Solar Photovoltaic,45.526558,-91.75693
+11479,Madison Gas & Electric Co,64780,Hermsdorf Solar,1,Dane,8,8,Solar Photovoltaic,43.0596,-89.2609
+60025,Greenbacker Renewable Energy Corporation,64862,Strobus,515,Jackson,1.5,1.5,Solar Photovoltaic,44.4332,-90.85707
+60571,"AEP Onsite Partners, LLC",64969,Barron Solar Array,BAR01,Barron,3,3,Solar Photovoltaic,45.396196,-91.82757
+60571,"AEP Onsite Partners, LLC",64976,Spooner Solar Array,SPN01,Washburn,2.1,2.1,Solar Photovoltaic,45.919047,-91.86248
+20856,Wisconsin Power & Light Co,65009,Bear Creek,PV1,Richland,50,37,Solar Photovoltaic,43.198512,-90.23282
+20856,Wisconsin Power & Light Co,65010,North Rock,PV1,Rock,50,36.5,Solar Photovoltaic,42.810873,-89.10154
+20856,Wisconsin Power & Light Co,65011,Wood County,PV1,Wood,150,110.6,Solar Photovoltaic,44.27361,-89.8335
+60025,Greenbacker Renewable Energy Corporation,65087,Shamrock Solar LLC,554,Jackson,3,3,Solar Photovoltaic,44.17659,-90.84654
+60025,Greenbacker Renewable Energy Corporation,65088,Stromland Solar,510,Buffalo,3,3,Solar Photovoltaic,44.19955,-91.80897
+59496,Allete Clean Energy,65282,Red Barn Energy,WT,Grant,91.6,91.6,Onshore Wind Turbine,42.951448,-90.4407
+20856,Wisconsin Power & Light Co,65530,Portage Industrial Battery,BESS1,Columbia,5,5,Batteries,43.552111,-89.48773
+20856,Wisconsin Power & Light Co,65633,Boaz Microgrid Battery,BESS1,Richland,0.3,0.2,Batteries,43.310598,-90.53274
+64930,ENGIE 2020 ProjectCo-WI1 LLC,65659,ENGIE 2020 ProjectCo-WI1 LLC,PV1,Fond Du Lac,1,1,Solar Photovoltaic,43.735027,-88.47378
+20856,Wisconsin Power & Light Co,65680,City of Sheboygan Solar,PV1,Sheboygan,1,1,Solar Photovoltaic,43.709143,-87.75538
+20856,Wisconsin Power & Light Co,65681,Kohler Solar,PV1,Sheboygan,2.3,2.3,Solar Photovoltaic,43.747,-87.76573
+20860,Wisconsin Public Service Corp,65968,Hodag Solar,HODAG,Oneida,7.5,7.5,Solar Photovoltaic,45.61246,-89.44366
+65220,"Middleton Biogas Solar, LLC",66048,"Middleton Biogas Solar, LLC",MBS,Dane,1.9,1.7,Solar Photovoltaic,43.1233,-89.5466
+65220,"Middleton Biogas Solar, LLC",66048,"Middleton Biogas Solar, LLC",MBS-B,Dane,0.3,0.3,Batteries,43.1233,-89.5466
+20860,Wisconsin Public Service Corp,66059,Weston RICE,W11,Marathon,18.8,18.8,Natural Gas Internal Combustion Engine,44.856372,-89.65402
+20860,Wisconsin Public Service Corp,66059,Weston RICE,W12,Marathon,18.8,18.8,Natural Gas Internal Combustion Engine,44.856372,-89.65402
+20860,Wisconsin Public Service Corp,66059,Weston RICE,W13,Marathon,18.8,18.8,Natural Gas Internal Combustion Engine,44.856372,-89.65402
+20860,Wisconsin Public Service Corp,66059,Weston RICE,W14,Marathon,18.8,18.8,Natural Gas Internal Combustion Engine,44.856372,-89.65402
+20860,Wisconsin Public Service Corp,66059,Weston RICE,W15,Marathon,18.8,18.8,Natural Gas Internal Combustion Engine,44.856372,-89.65402
+20860,Wisconsin Public Service Corp,66059,Weston RICE,W16,Marathon,18.8,18.8,Natural Gas Internal Combustion Engine,44.856372,-89.65402
+20860,Wisconsin Public Service Corp,66059,Weston RICE,W17,Marathon,18.8,18.8,Natural Gas Internal Combustion Engine,44.856372,-89.65402
+65501,Dane County Solar LLC,66419,Dane County Solar LLC,DANE,Dane,17.3,17.3,Solar Photovoltaic,43.0466,-89.23931
