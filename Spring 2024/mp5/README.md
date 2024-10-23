@@ -1,7 +1,7 @@
 # Project 5: Regression Models
 
 ## Corrections/Clarifications
-
+NOTE: in this github repository directory, the land.zip file has been omitted because it is enormous (and was too far too large to extract anyway). Anyone can still view how the file was used in the project file.
 
 ## Overview
 
