@@ -9,6 +9,11 @@ The projects in this repository showcase the intermediate-advanced steps for a m
 ## Projects
 
 ### 1. MP1
+- **Description**: This project is one that combines many different concepts and is meant as somewhat of a review of startinf data science concepts. However, this project also intoduces git commands and git navigation, in addition to time complexity and the optimizing thereof. 
+- **Key Techniques**: git commands, git structure, commits navigation, time complexity reduction, pandas
+- **Files**: `mp1.ipynb`
+
+### 1. MP2
 - **Description**: 
 - **Key Techniques**: 
-- **Files**: ``, ``
+- **Files**: ``
