@@ -19,31 +19,9 @@ Learning objectives:
 
 ## Setup
 
-Make sure to complete Lab 1 before starting this, as it must be done on your
-virtual machine.
+This project (and all the others in this class) are done on VM's.
 
-1. SSH to your virtual machine by running `ssh USERNAME@IP_ADDRESS`
-
-If you don't recall these from lab, you can find your username
-(https://console.cloud.google.com/compute/metadata/sshKeys) and
-External IP address
-(https://console.cloud.google.com/compute/instances) in Google's
-console.
-
-2. Run `pip3 install pandas==1.4.4 matplotlib==3.5.3`
-
-3. Please refer to the GitLab tutorial for instructions on how to clone your personal GitLab repository
-
-4. Go to `http://YOUR_IP_ADDRESS:2020/` in the browser (sign in, if prompted)
-
-Jupyter should still be running from when you started it during lab, but if it's not, you can start it again with the following:
-
-`nohup python3 -m jupyterlab --no-browser --ip=0.0.0.0 --port=2020 &`
-
-5. Enter the `mp1` directory (expand the folder icon on the left of the screen if you don't see these directories)
-6. Click to create a new `Python 3 (ipykernel)` notebook
-
-7. Go to "File" > "Rename Notebook", and name your notebook "mp1.ipynb"
+Steps to set this up are omitted, but everything must be structured correctly in order to run.
 
 ## Testing
 
@@ -80,51 +58,6 @@ some code, output answer
 
 4. Run `python3 tester.py p1.ipynb` and work on fixing any issues
 
-## Submission
-
-Your notebook should have a comment like this:
-
-```python
-# project: p1
-# submitter: ????
-# partner: none
-# hours: ????
-```
-
-For submitter, use your NetID (part before @wisc.edu in your email).
-Estimate how many hours you spent on the project. This semester,
-"partner" should always be "none". Don't list people on your assigned
-study group.
-
-To submit, please follow the instructions in the `gitlab-tutorial` directory within this repo. Those instructions are the most complete
-
-The abridged submission instruction are: 
-
-1. Go to Pinned - `Merge requests` in the left navigation bar (do this in browser).
-
-2. Click `New merge request`.
-
-3. Select your `MP?` as the source branch. Select `cs320/cs320-sp24-students1/netid/projects-and-labs` and main as the target branch. Please __DO NOT__ select the public `cs320/cs320-sp24-students/projects-and-labs` as the target!
-
-4. __DO NOT__ select `Mark as draft`.
-
-5. __DO NOT__ select `delete source branch when merge request is accepted`.
-
-6. Submit the merge request.
-
-A few additional notes:
-
-1. Make sure the pipeline successfully runs before submitting. If it fails then your autograder score will be 0.
-
-2. If the pipeline fails, on the GitLab website, navigate to Build -> Jobs and click on the failed job. You will see the exact error message and you can debug from there.
-
-# Group Part (75%)
-
-For this portion of the project, you may collaborate with your group
-members in any way (even looking at working code). You may also seek
-help from 320 staff (mentors, TAs, instructor). You <b>may not</b>
-seek receive help from other 320 students (outside your group) or
-anybody outside the course.
 
 ## Python Control Flow (Part 1)
 
