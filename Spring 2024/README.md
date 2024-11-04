@@ -24,6 +24,11 @@ The projects in this repository showcase the intermediate-advanced steps for a m
 - **Files**: `MP3scrape.py`, `file_nodes/*`
 
 ### 1. MP4
+- **Description**: The next task is to turn our attention to making our own website, and implementing some techniques, plots, and libraries inside of it. This project is *massive* and involves many different moving parts and concepts. In this project we will look at data from the Securities and Exchange Commission, which public companies are required to upload all sorts of reports to. The logs of this organaization and publically available and the size of one day's worth of logs can be up to 2 GB. This project aims to use this trove of data in an efficient way by developing tools to extract information from the filings stored in EDGAR (the dataset) and then combine the findings with a self-built website that displays the analysis of user behavior and edgar visualization. Addtionally, we will correspond the filings with zip code logs in order to find out where and when reports are made, and then use geopandas to geographically visualize it. We will also implement A/B testing on this website. 
+- **Key Techniques**: Big Data, URL reconstruction, regex, encoding, flask, correspondance, netaddr, rate limiting, A/B testing, visualization with geopandas, matplotlib, shape (shp) files, shapely geometry
+- **Files**: `MP4.py`, `MP4edgar_utils.py`, `MP4index.html`, `MP4.py`, `docs.zip`, `server_log.zip`, `shapes/*`, `locations.geojson`
+
+### 1. MP5
 - **Description**: This project is one that combines many different concepts and is meant as somewhat of a review of starting data science concepts. However, this project also intoduces git commands and git navigation, in addition to time complexity and the optimizing thereof. 
 - **Key Techniques**: git commands, git structure, commits navigation, time complexity reduction, pandas
 - **Files**: `mp1.ipynb`
