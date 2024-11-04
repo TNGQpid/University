@@ -29,6 +29,11 @@ The projects in this repository showcase the intermediate-advanced steps for a m
 - **Files**: `MP4.py`, `MP4edgar_utils.py`, `MP4index.html`, `MP4.py`, `docs.zip`, `server_log.zip`, `shapes/*`, `locations.geojson`
 
 ### 1. MP5
+- **Description**: Shifting gears, we will now look to open our eyes to the field of machine learning. In order to do this, we wil continue to better our skills using geopandas, but supplement it with SQL queries and SKlearn's machine learning modules, and we will introduce masking of data with raster. The end goal is to make predictions about census data for Wisconsin using regression models.
+- **Key Techniques**: SQL queries/usage, geopandas, shape (shp) files, shapely geometry, masking with raster, SKLearn module, machine learning
+- **Files**: `mp5.ipynb`, `counties_tracts.db`, `counties.geojson`, `tracts.*`
+
+### 1. MP6
 - **Description**: This project is one that combines many different concepts and is meant as somewhat of a review of starting data science concepts. However, this project also intoduces git commands and git navigation, in addition to time complexity and the optimizing thereof. 
 - **Key Techniques**: git commands, git structure, commits navigation, time complexity reduction, pandas
-- **Files**: `mp1.ipynb`
+- **Files**: `MP6.py`, 
