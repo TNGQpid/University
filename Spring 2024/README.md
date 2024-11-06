@@ -34,6 +34,6 @@ The projects in this repository showcase the intermediate-advanced steps for a m
 - **Files**: `mp5.ipynb`, `counties_tracts.db`, `counties.geojson`, `tracts.*`
 
 ### 6. MP6
-- **Description**: This project is one that combines many different concepts and is meant as somewhat of a review of starting data science concepts. However, this project also intoduces git commands and git navigation, in addition to time complexity and the optimizing thereof. 
-- **Key Techniques**: git commands, git structure, commits navigation, time complexity reduction, pandas
-- **Files**: `MP6.py`, 
+- **Description**: To supplement learning of the beginning principles in machine learning, this project will have you predict whether a given person will click on a link or not based upon features like demographic information, past websites visited, and how much money was spent in a past purchase. This project is one of the shortest in this repository, but it does a good job at highlighting key machine learning concepts. 
+- **Key Techniques**: machine learning, object-oriented programming, SKLearn, preprocessing, pipelines, pandas, numpy
+- **Files**: `MP6.py`, `data/*`
