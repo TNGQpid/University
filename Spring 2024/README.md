@@ -11,7 +11,7 @@ The projects in this repository showcase the intermediate-advanced steps for a m
 ### 1. MP1
 - **Description**: This project is one that combines many different concepts and is meant as somewhat of a review of starting data science concepts. However, this project also intoduces git commands and git navigation, in addition to time complexity and the optimizing thereof. 
 - **Key Techniques**: git commands, git structure, commits navigation, time complexity reduction, pandas
-- **Files**: `mp1.ipynb`
+- **Files**: `mp1.ipynb`, `home-computers/*`
 
 ### 2. MP2
 - **Description**: This project introduces one of the most important structures in computer programming, the Binary Search Tree (BST) (and graphs/trees in general). Addtionally, it will focus on objected oriented programming and classes, as well as recursive processes. This project will apply these concepts by looking at every loan made in the state of Wisconsin in 2020 and perform various tasks with them.
