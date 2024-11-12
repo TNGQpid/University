@@ -37,3 +37,9 @@ The projects in this repository showcase the use of *Machine Learning* and *Arti
 - **Description**: Another high-level, performance-enhancing neural network is called a *Convolutional Neural Network*. The network takes in an image, applies some filter-like matrix operations, condenses the numbers, and then outputs which classification the image most likely belongs to. Typically this type of neural network performs better than a classic, fully connected neural network (which was made in the previous project). This project will build and implement a Convolutional Neural Network to classify the Miniplaces challenge dataset, which contains 120,000 color images of various places (note: this setup is called LeNet-5, and is widely renowned for its historical influence on neural networks and deep learning).
 - **Key Techniques**: Convolutional Neural Networks, Parameter Hypertuning, Training, Evaluation, PyTorch, PyTorch-Vision, tqdm
 - **Files**: `student_code.py`, `train_miniplaces.py`
+
+
+### 6. hw8
+- **Description**: We will now shift our attention to game theory. One of the biggest, most recent accomplishments was the the grand master of the game Go was beaten by a computer, marking a historic landmark int he field of computer and data science. The outcome space is something on the order of 10^150, and it wasn't expected to have succeeded for at least another 5 years. In spirit of such an instrumental event, we will be coding a solver to solve a 3x3 puzzle tile game, where the goal is move the tiles into their goal state, usually to create a picture. This project will introduce the idea of a Heuristic, and incorporate this additonal information into a tree search. Therefore this project will implement the search algorithm A* to solve such a puzzle.
+- **Key Techniques**: Breath-first and depth-first search algorithms, Heuristics, distance calculation, optimization, heapq, A* algorithm.
+- **Files**: `funny_puzzle.py`, `h8Debug.ipynb`
