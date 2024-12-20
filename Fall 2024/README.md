@@ -31,7 +31,7 @@ The projects in this repository showcase the use of *Machine Learning* and *Arti
 ### 5. hw6
 - **Description**: Welcome to one of the most powerful tools in Data Science, *Neural Networks*. In this project we will implement a neural network to classify images of the MNIST database using PyTorch. Neural Networks are incredibly powerful models that serve a variety of purposes, one of the most useful being classification. For example, the 2024 Nobel Prize in Physics was given to two people (John J. Hopfield and Geoffrey Hinton) for creating specialized neural networks in the field of physics. It's now your turn to implement a classic version of a neural network, while gaining familiarity with PyTorch!
 - **Key Techniques**: Neural Networks, Data Loaders, Training a Neural Network, Evaluating a Neural Network, Predicting Labels, Gradient Descent, PyTorch
-- **Files**: `intro_pytorch.py`, `data/FashionMNIST/`
+- **Files**: `intro_pytorch.py`, `data/FashionMNIST/*`
 
 ### 6. hw7
 - **Description**: Another high-level, performance-enhancing neural network is called a *Convolutional Neural Network*. The network takes in an image, applies some filter-like matrix operations, condenses the numbers, and then outputs which classification the image most likely belongs to. Typically this type of neural network performs better than a classic, fully connected neural network (which was made in the previous project). This project will build and implement a Convolutional Neural Network to classify the Miniplaces challenge dataset, which contains 120,000 color images of various places (note: this setup is called LeNet-5, and is widely renowned for its historical influence on neural networks and deep learning).
