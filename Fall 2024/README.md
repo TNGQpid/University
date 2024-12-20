@@ -39,7 +39,19 @@ The projects in this repository showcase the use of *Machine Learning* and *Arti
 - **Files**: `student_code.py`, `train_miniplaces.py`
 
 
-### 6. hw8
+### 7. hw8
 - **Description**: We will now shift our attention to game theory. One of the biggest, most recent accomplishments was that the grand master of the game Go was beaten by a computer, marking a historic landmark in the field of computer and data science. The outcome space is something on the order of 10^150, and it wasn't expected to have succeeded for at least another 5 years. In spirit of such an instrumental event, we will be coding a solver to solve a 3x3 puzzle tile game, where the goal is move the tiles into their goal state, usually to create a picture. This project will introduce the idea of a *Heuristic*, and incorporate this additonal information into a tree search. Therefore this project will implement the search algorithm **A*** to solve such a puzzle.
 - **Key Techniques**: Breath-first and depth-first search algorithms, Heuristics, distance calculation, optimization, heapq, A* algorithm.
 - **Files**: `funny_puzzle.py`, `h8Debug.ipynb`
+
+  
+### 8. hw9
+- **Description**: To continue with our knowlege of game theory, we will develope an AI to play the game Teeko. You can think of Teeko as a game similar to connect-4, but the grid is 5 by 5 and players may move their tiles/pieces. We will implement a very important game theory algorithm called **Minimax**. Addtionally, in order to maximize the possible solutions states our AI can explore, we will implement alpha-beta pruning on minimax. The goal of this alogrithm is to be other, similar AIs that have their own programming. Like the last project, you will also need to implement a heuristic. Your huristic will be very important, as this will be what leads to the success of your AI over other AIs. 
+- **Key Techniques**: Minimax algorithm, alpha-beta pruning, Heuristics, distance calculation, optimization, state expansion. 
+- **Files**: `game.py`
+
+
+### 9. hw10
+- **Description**: To conclude the course and our experience with game theory, we will shift our attention to a technique called **Q-Learning**. In this project, we will focus on various actions that a player (you) can take in a given state, and the rewards associated with the aformentioned actions and their states. The goal of this project will be to maximize the rewards given from taking certain actions. The main algorithms to do this are called Q-Learning and SARSA, and this project will implement them both. We will take the classic example of starting from a corner of a grid, and the goal is to get to the ohter side. The catch is that there is a cliff along the most direct path, so your charatcer (AI) will attempt to navigate the environment. 
+- **Key Techniques**: Q-Learning, SARSA, Q-Tables, Gymnasium, discount factors, actions, states, Bellman Equation. 
+- **Files**: `Q_Learning.py`, `SARSA.py`, `Q_TABLE_QLearning.pkl`, `Q_TABLE_SARSA.pkl`
